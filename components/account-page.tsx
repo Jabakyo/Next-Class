@@ -1,30 +1,55 @@
 "use client"
 
 import { useState, useEffect } from "react"
-import {
-  ArrowLeft,
-  User,
-  BookOpen,
-  Shield,
-  CheckCircle,
-  AlertTriangle,
-  Trash2,
-  Calendar,
-  Clock,
-  MapPin,
-  Users,
-  Mail,
-  GraduationCap,
-  Award,
-  Eye,
-  EyeOff,
-  Instagram,
-  Bell,
-  BellOff,
-  FileImage,
-  Plus,
-  Edit3,
-} from "lucide-react"
+// Temporarily commented out lucide-react imports for deployment
+// import {
+//   ArrowLeft,
+//   User,
+//   BookOpen,
+//   Shield,
+//   CheckCircle,
+//   AlertTriangle,
+//   Trash2,
+//   Calendar,
+//   Clock,
+//   MapPin,
+//   Users,
+//   Mail,
+//   GraduationCap,
+//   Award,
+//   Eye,
+//   EyeOff,
+//   Instagram,
+//   Bell,
+//   BellOff,
+//   FileImage,
+//   Plus,
+//   Edit3,
+// } from "lucide-react"
+
+// Temporary icon replacements
+const ArrowLeft = () => <span>←</span>
+const User = () => <span>👤</span>
+const BookOpen = () => <span>📚</span>
+const Shield = () => <span>🛡️</span>
+const CheckCircle = () => <span>✅</span>
+const AlertTriangle = () => <span>⚠️</span>
+const Trash2 = () => <span>🗑️</span>
+const Calendar = () => <span>📅</span>
+const Clock = () => <span>⏰</span>
+const MapPin = () => <span>📍</span>
+const Users = () => <span>👥</span>
+const Mail = () => <span>📧</span>
+const GraduationCap = () => <span>🎓</span>
+const Award = () => <span>🏆</span>
+const Eye = () => <span>👁️</span>
+const EyeOff = () => <span>🙈</span>
+const Instagram = () => <span>📷</span>
+const Bell = () => <span>🔔</span>
+const BellOff = () => <span>🔕</span>
+const FileImage = () => <span>🖼️</span>
+const Plus = () => <span>➕</span>
+const Edit3 = () => <span>✏️</span>
 import type { User as UserType, SelectedClass } from "@/types/user"
 import EnhancedClassModal from "@/components/enhanced-class-modal"
 import AvatarUpload from "@/components/avatar-upload"
