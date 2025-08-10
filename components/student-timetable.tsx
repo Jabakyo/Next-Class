@@ -1,7 +1,14 @@
 "use client"
 
 import type { SelectedClass } from "@/types/user"
-import { Clock, MapPin, BookOpen, GraduationCap, User } from "lucide-react"
+// import { Clock, MapPin, BookOpen, GraduationCap, User } from "lucide-react"
+// Temporary icon replacements
+const Clock = () => <span>⏰</span>
+const MapPin = () => <span>📍</span>
+const BookOpen = () => <span>📚</span>
+const GraduationCap = () => <span>🎓</span>
+const User = () => <span>👤</span>
+
 
 interface StudentTimetableProps {
   selectedClasses: SelectedClass[]

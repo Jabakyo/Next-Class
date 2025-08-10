@@ -2,7 +2,10 @@
 
 import * as React from "react"
 import { OTPInput, OTPInputContext } from "input-otp"
-import { Dot } from "lucide-react"
+// import { Dot } from "lucide-react"
+// Temporary icon replacements
+const Dot = () => <span>⭐</span>
+
 
 import { cn } from "@/lib/utils"
 

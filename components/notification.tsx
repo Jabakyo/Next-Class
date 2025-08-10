@@ -1,7 +1,12 @@
 "use client"
 
 import { useEffect } from "react"
-import { CheckCircle, XCircle, X } from "lucide-react"
+// import { CheckCircle, XCircle, X } from "lucide-react"
+// Temporary icon replacements
+const CheckCircle = () => <span>✅</span>
+const XCircle = () => <span>⭐</span>
+const X = () => <span>❌</span>
+
 
 interface NotificationProps {
   message: string

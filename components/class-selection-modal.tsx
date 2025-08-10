@@ -3,7 +3,18 @@
 import type React from "react"
 
 import { useState, useEffect } from "react"
-import { X, Search, Clock, Users, MapPin, BookOpen, GraduationCap, ArrowRight, Loader2 } from "lucide-react"
+// import { X, Search, Clock, Users, MapPin, BookOpen, GraduationCap, ArrowRight, Loader2 } from "lucide-react"
+// Temporary icon replacements
+const X = () => <span>❌</span>
+const Search = () => <span>🔍</span>
+const Clock = () => <span>⏰</span>
+const Users = () => <span>👥</span>
+const MapPin = () => <span>📍</span>
+const BookOpen = () => <span>📚</span>
+const GraduationCap = () => <span>🎓</span>
+const ArrowRight = () => <span>⭐</span>
+const Loader2 = () => <span>⏳</span>
+
 import type { SelectedClass } from "@/types/user"
 
 // Define course interface for API data

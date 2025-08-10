@@ -2,7 +2,10 @@
 
 import * as React from "react"
 import * as AccordionPrimitive from "@radix-ui/react-accordion"
-import { ChevronDown } from "lucide-react"
+// import { ChevronDown } from "lucide-react"
+// Temporary icon replacements
+const ChevronDown = () => <span>⬇️</span>
+
 
 import { cn } from "@/lib/utils"
 

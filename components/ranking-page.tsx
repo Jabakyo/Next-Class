@@ -1,7 +1,17 @@
 "use client"
 
 import { useState, useEffect } from "react"
-import { ArrowLeft, Trophy, Eye, TrendingUp, Medal, Crown, Award, Shield } from "lucide-react"
+// import { ArrowLeft, Trophy, Eye, TrendingUp, Medal, Crown, Award, Shield } from "lucide-react"
+// Temporary icon replacements
+const ArrowLeft = () => <span>←</span>
+const Trophy = () => <span>⭐</span>
+const Eye = () => <span>👁️</span>
+const TrendingUp = () => <span>⭐</span>
+const Medal = () => <span>⭐</span>
+const Crown = () => <span>⭐</span>
+const Award = () => <span>🏆</span>
+const Shield = () => <span>🛡️</span>
+
 import type { User } from "@/types/user"
 import LoadingImage from "@/components/loading-image"
 

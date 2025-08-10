@@ -1,7 +1,13 @@
 "use client"
 
 import { useState } from "react"
-import { Eye, EyeOff, Shield, Lock } from "lucide-react"
+// import { Eye, EyeOff, Shield, Lock } from "lucide-react"
+// Temporary icon replacements
+const Eye = () => <span>👁️</span>
+const EyeOff = () => <span>🙈</span>
+const Shield = () => <span>🛡️</span>
+const Lock = () => <span>⭐</span>
+
 
 interface OwnerLoginProps {
   onLogin: (password: string) => boolean

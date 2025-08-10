@@ -2,7 +2,13 @@
 
 import { useState, useEffect } from "react"
 import { useSearchParams, useRouter } from "next/navigation"
-import { CheckCircle, XCircle, Mail, Loader2 } from "lucide-react"
+// import { CheckCircle, XCircle, Mail, Loader2 } from "lucide-react"
+// Temporary icon replacements
+const CheckCircle = () => <span>✅</span>
+const XCircle = () => <span>⭐</span>
+const Mail = () => <span>📧</span>
+const Loader2 = () => <span>⏳</span>
+
 import LoadingImage from "@/components/loading-image"
 
 interface VerificationState {

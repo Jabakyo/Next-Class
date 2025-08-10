@@ -1,7 +1,7 @@
 "use client"
 
 import { useState, useEffect, useRef } from "react"
-import {
+// import {
   Bell,
   Share2,
   Plus,
@@ -20,6 +20,25 @@ import {
   Calendar,
   BookOpen,
 } from "lucide-react"
+// Temporary icon replacements
+const Bell = () => <span>🔔</span>
+const Share2 = () => <span>⭐</span>
+const Plus = () => <span>➕</span>
+const Menu = () => <span>⭐</span>
+const X = () => <span>❌</span>
+const LogOut = () => <span>🚪</span>
+const Trophy = () => <span>⭐</span>
+const Settings = () => <span>⚙️</span>
+const Shield = () => <span>🛡️</span>
+const CheckCircle = () => <span>✅</span>
+const AlertCircle = () => <span>⭐</span>
+const Users = () => <span>👥</span>
+const UserCheck = () => <span>⭐</span>
+const HelpCircle = () => <span>⭐</span>
+const Mail = () => <span>📧</span>
+const Calendar = () => <span>📅</span>
+const BookOpen = () => <span>📚</span>
+
 import type { User, Event } from "@/types/user"
 
 interface HeaderProps {

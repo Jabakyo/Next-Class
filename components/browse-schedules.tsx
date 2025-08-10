@@ -1,7 +1,16 @@
 "use client"
 
 import { useState, useEffect } from "react"
-import { Search, ArrowLeft, Users, CheckCircle, Shield, Clock, XCircle } from "lucide-react"
+// import { Search, ArrowLeft, Users, CheckCircle, Shield, Clock, XCircle } from "lucide-react"
+// Temporary icon replacements
+const Search = () => <span>🔍</span>
+const ArrowLeft = () => <span>←</span>
+const Users = () => <span>👥</span>
+const CheckCircle = () => <span>✅</span>
+const Shield = () => <span>🛡️</span>
+const Clock = () => <span>⏰</span>
+const XCircle = () => <span>⭐</span>
+
 import type { User } from "@/types/user"
 import StudentProfileView from "@/components/student-profile-view"
 import LoadingImage from "@/components/loading-image"

@@ -1,7 +1,14 @@
 "use client"
 
 import { useState, useEffect } from "react"
-import { Users, Search, BookOpen, Clock, MapPin } from "lucide-react"
+// import { Users, Search, BookOpen, Clock, MapPin } from "lucide-react"
+// Temporary icon replacements
+const Users = () => <span>👥</span>
+const Search = () => <span>🔍</span>
+const BookOpen = () => <span>📚</span>
+const Clock = () => <span>⏰</span>
+const MapPin = () => <span>📍</span>
+
 import type { User, SelectedClass } from "@/types/user"
 
 interface ClassmateFinderProps {

@@ -1,7 +1,18 @@
 "use client"
 
 import React, { useState, useEffect } from "react"
-import { X, Plus, Trash2, Clock, MapPin, Users, BookOpen, Search, Edit3 } from "lucide-react"
+// import { X, Plus, Trash2, Clock, MapPin, Users, BookOpen, Search, Edit3 } from "lucide-react"
+// Temporary icon replacements
+const X = () => <span>❌</span>
+const Plus = () => <span>➕</span>
+const Trash2 = () => <span>🗑️</span>
+const Clock = () => <span>⏰</span>
+const MapPin = () => <span>📍</span>
+const Users = () => <span>👥</span>
+const BookOpen = () => <span>📚</span>
+const Search = () => <span>🔍</span>
+const Edit3 = () => <span>✏️</span>
+
 import type { SelectedClass, MeetingTime } from "@/types/user"
 import { CourseSelection } from "@/components/course-selection"
 

@@ -1,7 +1,14 @@
 "use client"
 
 import { useState, useRef } from "react"
-import { Camera, Upload, X, Trash2, User } from "lucide-react"
+// import { Camera, Upload, X, Trash2, User } from "lucide-react"
+// Temporary icon replacements
+const Camera = () => <span>⭐</span>
+const Upload = () => <span>⭐</span>
+const X = () => <span>❌</span>
+const Trash2 = () => <span>🗑️</span>
+const User = () => <span>👤</span>
+
 
 interface AvatarUploadProps {
   currentAvatar?: string

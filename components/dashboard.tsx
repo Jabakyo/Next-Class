@@ -13,7 +13,14 @@ import ScheduleVerificationModal from "@/components/schedule-verification-modal"
 import AccountPage from "@/components/account-page"
 import ClassChangeWarningModal from "@/components/class-change-warning-modal"
 import type { User, Event, SelectedClass } from "@/types/user"
-import { Share2, EyeOff, Shield, Clock, XCircle } from "lucide-react"
+// import { Share2, EyeOff, Shield, Clock, XCircle } from "lucide-react"
+// Temporary icon replacements
+const Share2 = () => <span>⭐</span>
+const EyeOff = () => <span>🙈</span>
+const Shield = () => <span>🛡️</span>
+const Clock = () => <span>⏰</span>
+const XCircle = () => <span>⭐</span>
+
 import { hybridAPI, eventsAPI } from "@/lib/api-client"
 
 interface DashboardProps {

@@ -1,7 +1,13 @@
 "use client"
 
 import { useState, useEffect } from "react"
-import { Plus, Calendar, Clock, User } from "lucide-react"
+// import { Plus, Calendar, Clock, User } from "lucide-react"
+// Temporary icon replacements
+const Plus = () => <span>➕</span>
+const Calendar = () => <span>📅</span>
+const Clock = () => <span>⏰</span>
+const User = () => <span>👤</span>
+
 import type { SelectedClass, User as UserType } from "@/types/user"
 
 interface TimetableProps {

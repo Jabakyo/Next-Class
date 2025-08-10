@@ -1,7 +1,18 @@
 "use client"
 
 import { useState, useEffect } from "react"
-import { X, Calendar, Clock, MapPin, Users, User, Check, XIcon, Trash2 } from "lucide-react"
+// import { X, Calendar, Clock, MapPin, Users, User, Check, XIcon, Trash2 } from "lucide-react"
+// Temporary icon replacements
+const X = () => <span>❌</span>
+const Calendar = () => <span>📅</span>
+const Clock = () => <span>⏰</span>
+const MapPin = () => <span>📍</span>
+const Users = () => <span>👥</span>
+const User = () => <span>👤</span>
+const Check = () => <span>✅</span>
+const XIcon = () => <span>⭐</span>
+const Trash2 = () => <span>🗑️</span>
+
 import type { Event, EventAttendee } from "@/types/user"
 
 interface EventDetailsModalProps {

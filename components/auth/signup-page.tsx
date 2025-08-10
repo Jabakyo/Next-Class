@@ -3,7 +3,18 @@
 import type React from "react"
 
 import { useState } from "react"
-import { Eye, EyeOff, Mail, Lock, UserIcon, X, ArrowRight, ArrowLeft, CheckCircle } from "lucide-react"
+// import { Eye, EyeOff, Mail, Lock, UserIcon, X, ArrowRight, ArrowLeft, CheckCircle } from "lucide-react"
+// Temporary icon replacements
+const Eye = () => <span>👁️</span>
+const EyeOff = () => <span>🙈</span>
+const Mail = () => <span>📧</span>
+const Lock = () => <span>⭐</span>
+const UserIcon = () => <span>⭐</span>
+const X = () => <span>❌</span>
+const ArrowRight = () => <span>⭐</span>
+const ArrowLeft = () => <span>←</span>
+const CheckCircle = () => <span>✅</span>
+
 import type { User, SelectedClass } from "@/types/user"
 import ClassSelectionModal from "@/components/class-selection-modal"
 import LoadingImage from "@/components/loading-image"

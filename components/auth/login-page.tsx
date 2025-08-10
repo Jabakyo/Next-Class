@@ -3,7 +3,13 @@
 import type React from "react"
 
 import { useState } from "react"
-import { Eye, EyeOff, Mail, Lock } from "lucide-react"
+// import { Eye, EyeOff, Mail, Lock } from "lucide-react"
+// Temporary icon replacements
+const Eye = () => <span>👁️</span>
+const EyeOff = () => <span>🙈</span>
+const Mail = () => <span>📧</span>
+const Lock = () => <span>⭐</span>
+
 import type { User } from "@/types/user"
 import LoadingImage from "@/components/loading-image"
 

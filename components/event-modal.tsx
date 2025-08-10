@@ -5,7 +5,11 @@ import type React from "react"
 import type { ReactElement } from "react"
 
 import { useState, useEffect } from "react"
-import { X, Search } from "lucide-react"
+// import { X, Search } from "lucide-react"
+// Temporary icon replacements
+const X = () => <span>❌</span>
+const Search = () => <span>🔍</span>
+
 import type { User } from "@/types/user"
 
 // Update the interface to include current user and onSubmit parameters

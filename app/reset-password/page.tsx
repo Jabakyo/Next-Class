@@ -2,7 +2,14 @@
 
 import { useState, useEffect } from "react"
 import { useSearchParams, useRouter } from "next/navigation"
-import { Eye, EyeOff, Lock, CheckCircle, XCircle } from "lucide-react"
+// import { Eye, EyeOff, Lock, CheckCircle, XCircle } from "lucide-react"
+// Temporary icon replacements
+const Eye = () => <span>👁️</span>
+const EyeOff = () => <span>🙈</span>
+const Lock = () => <span>⭐</span>
+const CheckCircle = () => <span>✅</span>
+const XCircle = () => <span>⭐</span>
+
 import LoadingImage from "@/components/loading-image"
 
 export default function ResetPasswordPage() {

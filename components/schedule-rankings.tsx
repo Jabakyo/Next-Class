@@ -1,7 +1,7 @@
 "use client"
 
 import { useState, useEffect } from "react"
-import { 
+// import { 
   Trophy, 
   TrendingUp, 
   TrendingDown, 
@@ -15,6 +15,20 @@ import {
   ChevronDown,
   ArrowLeft
 } from "lucide-react"
+// Temporary icon replacements
+const Trophy = () => <span>⭐</span>
+const TrendingUp = () => <span>⭐</span>
+const TrendingDown = () => <span>⭐</span>
+const Minus = () => <span>⭐</span>
+const Eye = () => <span>👁️</span>
+const Calendar = () => <span>📅</span>
+const Users = () => <span>👥</span>
+const Crown = () => <span>⭐</span>
+const Medal = () => <span>⭐</span>
+const Award = () => <span>🏆</span>
+const ChevronDown = () => <span>⬇️</span>
+const ArrowLeft = () => <span>←</span>
+
 import type { UserRanking } from "@/types/visits"
 import type { User } from "@/types/user"
 

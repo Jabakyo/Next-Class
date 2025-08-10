@@ -3,7 +3,13 @@
 import type React from "react"
 
 import { useState } from "react"
-import { X, Share2, Lock, Eye } from "lucide-react"
+// import { X, Share2, Lock, Eye } from "lucide-react"
+// Temporary icon replacements
+const X = () => <span>❌</span>
+const Share2 = () => <span>⭐</span>
+const Lock = () => <span>⭐</span>
+const Eye = () => <span>👁️</span>
+
 
 interface ShareScheduleModalProps {
   isOpen: boolean

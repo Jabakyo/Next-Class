@@ -1,6 +1,17 @@
 "use client"
 
-import { Calendar, Clock, MapPin, User, BookOpen, Users, Mail, GraduationCap, Instagram } from "lucide-react"
+// import { Calendar, Clock, MapPin, User, BookOpen, Users, Mail, GraduationCap, Instagram } from "lucide-react"
+// Temporary icon replacements
+const Calendar = () => <span>📅</span>
+const Clock = () => <span>⏰</span>
+const MapPin = () => <span>📍</span>
+const User = () => <span>👤</span>
+const BookOpen = () => <span>📚</span>
+const Users = () => <span>👥</span>
+const Mail = () => <span>📧</span>
+const GraduationCap = () => <span>🎓</span>
+const Instagram = () => <span>📷</span>
+
 import type { SelectedClass } from "@/types/user"
 
 interface StudentProfileViewProps {

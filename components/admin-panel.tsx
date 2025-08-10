@@ -1,7 +1,16 @@
 "use client"
 
 import { useState, useEffect } from "react"
-import { ArrowLeft, CheckCircle, XCircle, Clock, User, Calendar, Download } from "lucide-react"
+// import { ArrowLeft, CheckCircle, XCircle, Clock, User, Calendar, Download } from "lucide-react"
+// Temporary icon replacements
+const ArrowLeft = () => <span>←</span>
+const CheckCircle = () => <span>✅</span>
+const XCircle = () => <span>⭐</span>
+const Clock = () => <span>⏰</span>
+const User = () => <span>👤</span>
+const Calendar = () => <span>📅</span>
+const Download = () => <span>⭐</span>
+
 import type { VerificationRequest } from "@/types/verification"
 
 interface AdminPanelProps {

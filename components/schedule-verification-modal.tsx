@@ -2,7 +2,17 @@
 
 import type React from "react"
 import { useState, useRef } from "react"
-import { X, Upload, Camera, Shield, CheckCircle, AlertCircle, Clock, XCircle } from "lucide-react"
+// import { X, Upload, Camera, Shield, CheckCircle, AlertCircle, Clock, XCircle } from "lucide-react"
+// Temporary icon replacements
+const X = () => <span>❌</span>
+const Upload = () => <span>⭐</span>
+const Camera = () => <span>⭐</span>
+const Shield = () => <span>🛡️</span>
+const CheckCircle = () => <span>✅</span>
+const AlertCircle = () => <span>⭐</span>
+const Clock = () => <span>⏰</span>
+const XCircle = () => <span>⭐</span>
+
 
 interface ScheduleVerificationModalProps {
   isOpen: boolean

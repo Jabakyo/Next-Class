@@ -1,7 +1,12 @@
 "use client"
 
 import React from "react"
-import { X, AlertTriangle, Shield } from "lucide-react"
+// import { X, AlertTriangle, Shield } from "lucide-react"
+// Temporary icon replacements
+const X = () => <span>❌</span>
+const AlertTriangle = () => <span>⚠️</span>
+const Shield = () => <span>🛡️</span>
+
 
 interface ClassChangeWarningModalProps {
   isOpen: boolean

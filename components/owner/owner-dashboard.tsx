@@ -1,7 +1,7 @@
 "use client"
 
 import { useState, useEffect } from "react"
-import { 
+// import { 
   Shield, 
   LogOut, 
   Users, 
@@ -17,6 +17,22 @@ import {
   FileImage,
   Trash2
 } from "lucide-react"
+// Temporary icon replacements
+const Shield = () => <span>🛡️</span>
+const LogOut = () => <span>🚪</span>
+const Users = () => <span>👥</span>
+const CheckCircle = () => <span>✅</span>
+const XCircle = () => <span>⭐</span>
+const Clock = () => <span>⏰</span>
+const Download = () => <span>⭐</span>
+const Calendar = () => <span>📅</span>
+const Mail = () => <span>📧</span>
+const User = () => <span>👤</span>
+const AlertTriangle = () => <span>⚠️</span>
+const TrendingUp = () => <span>⭐</span>
+const FileImage = () => <span>🖼️</span>
+const Trash2 = () => <span>🗑️</span>
+
 import type { VerificationRequest } from "@/types/verification"
 
 interface OwnerDashboardProps {

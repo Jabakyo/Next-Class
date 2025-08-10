@@ -1,7 +1,14 @@
 "use client"
 
 import { useState, useEffect } from "react"
-import { Users, Check, X, Clock, XCircle } from "lucide-react"
+// import { Users, Check, X, Clock, XCircle } from "lucide-react"
+// Temporary icon replacements
+const Users = () => <span>👥</span>
+const Check = () => <span>✅</span>
+const X = () => <span>❌</span>
+const Clock = () => <span>⏰</span>
+const XCircle = () => <span>⭐</span>
+
 
 interface EventAttendee {
   userId: string

@@ -1,5 +1,10 @@
 import * as React from "react"
-import { ChevronLeft, ChevronRight, MoreHorizontal } from "lucide-react"
+// import { ChevronLeft, ChevronRight, MoreHorizontal } from "lucide-react"
+// Temporary icon replacements
+const ChevronLeft = () => <span>⬅️</span>
+const ChevronRight = () => <span>➡️</span>
+const MoreHorizontal = () => <span>⭐</span>
+
 
 import { cn } from "@/lib/utils"
 import { ButtonProps, buttonVariants } from "@/components/ui/button"

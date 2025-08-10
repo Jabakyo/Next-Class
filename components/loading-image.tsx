@@ -1,7 +1,11 @@
 "use client"
 
 import { useState } from "react"
-import { ImageIcon, AlertCircle } from "lucide-react"
+// import { ImageIcon, AlertCircle } from "lucide-react"
+// Temporary icon replacements
+const ImageIcon = () => <span>⭐</span>
+const AlertCircle = () => <span>⭐</span>
+
 
 interface LoadingImageProps {
   src: string
