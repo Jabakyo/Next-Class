@@ -2,7 +2,6 @@
 
 import * as React from "react"
 import * as DialogPrimitive from "@radix-ui/react-dialog"
-// // Removed lucide-react import
 // Temporary icon replacements
 const X = () => <span>❌</span>
 

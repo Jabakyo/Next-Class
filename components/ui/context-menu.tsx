@@ -2,7 +2,6 @@
 
 import * as React from "react"
 import * as ContextMenuPrimitive from "@radix-ui/react-context-menu"
-// // Removed lucide-react import
 // Temporary icon replacements
 const Check = () => <span>✅</span>
 const ChevronRight = () => <span>➡️</span>

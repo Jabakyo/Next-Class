@@ -1,7 +1,6 @@
 "use client"
 
 import { useState, useEffect } from "react"
-// // Removed lucide-react import
 // Temporary icon replacements
 const X = () => <span>❌</span>
 const Calendar = () => <span>📅</span>

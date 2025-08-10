@@ -2,7 +2,6 @@
 
 import * as React from "react"
 import { OTPInput, OTPInputContext } from "input-otp"
-// // Removed lucide-react import
 // Temporary icon replacements
 const Dot = () => <span>⭐</span>
 

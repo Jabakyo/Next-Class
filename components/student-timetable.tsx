@@ -1,7 +1,6 @@
 "use client"
 
 import type { SelectedClass } from "@/types/user"
-// // Removed lucide-react import
 // Temporary icon replacements
 const Clock = () => <span>⏰</span>
 const MapPin = () => <span>📍</span>

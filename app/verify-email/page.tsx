@@ -2,7 +2,6 @@
 
 import { useState, useEffect } from "react"
 import { useSearchParams, useRouter } from "next/navigation"
-// // Removed lucide-react import
 // Temporary icon replacements
 const CheckCircle = () => <span>✅</span>
 const XCircle = () => <span>⭐</span>

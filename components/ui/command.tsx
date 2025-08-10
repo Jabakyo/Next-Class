@@ -3,7 +3,6 @@
 import * as React from "react"
 import { type DialogProps } from "@radix-ui/react-dialog"
 import { Command as CommandPrimitive } from "cmdk"
-// // Removed lucide-react import
 // Temporary icon replacements
 const Search = () => <span>🔍</span>
 

@@ -1,7 +1,6 @@
 "use client"
 
 import { useState, useEffect } from "react"
-// // Removed lucide-react import
 // Temporary icon replacements
 const ArrowLeft = () => <span>←</span>
 const Trophy = () => <span>⭐</span>

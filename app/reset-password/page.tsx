@@ -2,7 +2,6 @@
 
 import { useState, useEffect } from "react"
 import { useSearchParams, useRouter } from "next/navigation"
-// // Removed lucide-react import
 // Temporary icon replacements
 const Eye = () => <span>👁️</span>
 const EyeOff = () => <span>🙈</span>

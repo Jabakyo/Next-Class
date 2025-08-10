@@ -1,6 +1,5 @@
 import * as React from "react"
 import { Slot } from "@radix-ui/react-slot"
-// // Removed lucide-react import
 // Temporary icon replacements
 const ChevronRight = () => <span>➡️</span>
 const MoreHorizontal = () => <span>⭐</span>

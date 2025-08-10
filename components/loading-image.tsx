@@ -1,7 +1,6 @@
 "use client"
 
 import { useState } from "react"
-// // Removed lucide-react import
 // Temporary icon replacements
 const ImageIcon = () => <span>⭐</span>
 const AlertCircle = () => <span>⭐</span>

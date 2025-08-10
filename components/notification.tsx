@@ -1,7 +1,6 @@
 "use client"
 
 import { useEffect } from "react"
-// // Removed lucide-react import
 // Temporary icon replacements
 const CheckCircle = () => <span>✅</span>
 const XCircle = () => <span>⭐</span>

@@ -4,7 +4,6 @@ import * as React from "react"
 import useEmblaCarousel, {
   type UseEmblaCarouselType,
 } from "embla-carousel-react"
-// // Removed lucide-react import
 // Temporary icon replacements
 const ArrowLeft = () => <span>←</span>
 const ArrowRight = () => <span>⭐</span>

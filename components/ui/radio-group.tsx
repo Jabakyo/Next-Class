@@ -2,7 +2,6 @@
 
 import * as React from "react"
 import * as RadioGroupPrimitive from "@radix-ui/react-radio-group"
-// // Removed lucide-react import
 // Temporary icon replacements
 const Circle = () => <span>⭐</span>
 

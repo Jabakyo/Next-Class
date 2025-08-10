@@ -1,7 +1,6 @@
 "use client"
 
 import { useTheme } from "next-themes"
-// Removed sonner import
 
 type ToasterProps = React.ComponentProps<typeof Sonner>
 

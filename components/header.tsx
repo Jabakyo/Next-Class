@@ -1,7 +1,6 @@
 "use client"
 
 import { useState, useEffect, useRef } from "react"
-// // Removed lucide-react import
 // Temporary icon replacements
 const Bell = () => <span>🔔</span>
 const Share2 = () => <span>⭐</span>

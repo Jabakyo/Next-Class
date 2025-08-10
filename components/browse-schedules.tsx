@@ -1,7 +1,6 @@
 "use client"
 
 import { useState, useEffect } from "react"
-// // Removed lucide-react import
 // Temporary icon replacements
 const Search = () => <span>🔍</span>
 const ArrowLeft = () => <span>←</span>

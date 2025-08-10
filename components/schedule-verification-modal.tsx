@@ -2,7 +2,6 @@
 
 import type React from "react"
 import { useState, useRef } from "react"
-// // Removed lucide-react import
 // Temporary icon replacements
 const X = () => <span>❌</span>
 const Upload = () => <span>⭐</span>

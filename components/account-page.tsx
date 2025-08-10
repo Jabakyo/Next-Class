@@ -1,8 +1,6 @@
 "use client"
 
 import { useState, useEffect } from "react"
-// Temporarily commented out lucide-react imports for deployment
-// // Removed lucide-react import
 
 // Temporary icon replacements
 const ArrowLeft = () => <span>←</span>

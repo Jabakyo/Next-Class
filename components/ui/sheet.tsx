@@ -3,7 +3,6 @@
 import * as React from "react"
 import * as SheetPrimitive from "@radix-ui/react-dialog"
 import { cva, type VariantProps } from "class-variance-authority"
-// // Removed lucide-react import
 // Temporary icon replacements
 const X = () => <span>❌</span>
 

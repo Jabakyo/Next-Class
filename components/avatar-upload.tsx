@@ -1,7 +1,6 @@
 "use client"
 
 import { useState, useRef } from "react"
-// // Removed lucide-react import
 // Temporary icon replacements
 const Camera = () => <span>⭐</span>
 const Upload = () => <span>⭐</span>

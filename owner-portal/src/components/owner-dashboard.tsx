@@ -1,19 +1,18 @@
 "use client"
 
 import { useState, useEffect } from "react"
-import { 
-  Shield, 
-  LogOut, 
-  Users, 
-  CheckCircle, 
-  XCircle, 
-  Clock, 
-  Download,
-  User,
-  AlertTriangle,
-  TrendingUp,
-  FileImage
-} from "lucide-react"
+// Temporary icon replacements
+const Shield = () => <span>🛡️</span>
+const LogOut = () => <span>🚪</span>
+const Users = () => <span>👥</span>
+const CheckCircle = () => <span>✅</span>
+const XCircle = () => <span>❌</span>
+const Clock = () => <span>⏰</span>
+const Download = () => <span>💾</span>
+const User = () => <span>👤</span>
+const AlertTriangle = () => <span>⚠️</span>
+const TrendingUp = () => <span>📈</span>
+const FileImage = () => <span>📄</span>
 
 interface VerificationRequest {
   id: string

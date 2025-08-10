@@ -2,7 +2,6 @@
 
 import * as React from "react"
 import * as SelectPrimitive from "@radix-ui/react-select"
-// // Removed lucide-react import
 // Temporary icon replacements
 const Check = () => <span>✅</span>
 const ChevronDown = () => <span>⬇️</span>

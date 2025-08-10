@@ -1,7 +1,6 @@
 "use client"
 
 import { useState, useEffect } from "react"
-// // Removed lucide-react import
 // Temporary icon replacements
 const Shield = () => <span>🛡️</span>
 const LogOut = () => <span>🚪</span>
