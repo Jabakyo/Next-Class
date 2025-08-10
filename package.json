@@ -8,7 +8,7 @@
     "start": "next start",
     "lint": "next lint",
     "db:init": "node -e \"require('./lib/db-postgres.ts').db.init()\"",
-    "postinstall": "prisma generate || echo 'Prisma generate skipped'"
+    "postinstall": "echo 'Skipping Prisma generation for initial deployment'"
   },
   "dependencies": {
     "next": "14.0.4",
