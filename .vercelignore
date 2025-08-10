@@ -1,0 +1,4 @@
+# Force rebuild
+node_modules
+.next
+*.log

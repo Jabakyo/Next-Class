@@ -1,13 +1,13 @@
 {
   "name": "next-class",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "db:init": "node -e \"require('./lib/db-postgres.ts').db.init()\"",
+    "db:init": "node -e \"require('./lib/db-postgres.ts').db.init()\""
   },
   "dependencies": {
     "next": "14.0.4",
