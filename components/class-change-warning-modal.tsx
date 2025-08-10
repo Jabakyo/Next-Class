@@ -1,7 +1,7 @@
 "use client"
 
 import React from "react"
-// import { X, AlertTriangle, Shield } from "lucide-react"
+// // Removed lucide-react import
 // Temporary icon replacements
 const X = () => <span>❌</span>
 const AlertTriangle = () => <span>⚠️</span>

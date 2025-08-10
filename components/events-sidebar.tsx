@@ -1,7 +1,7 @@
 "use client"
 
 import { useState, useEffect } from "react"
-// import { Users, Check, X, Clock, XCircle } from "lucide-react"
+// // Removed lucide-react import
 // Temporary icon replacements
 const Users = () => <span>👥</span>
 const Check = () => <span>✅</span>

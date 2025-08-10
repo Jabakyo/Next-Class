@@ -1,25 +1,7 @@
 "use client"
 
 import { useState, useEffect, useRef } from "react"
-// import {
-  Bell,
-  Share2,
-  Plus,
-  Menu,
-  X,
-  LogOut,
-  Trophy,
-  Settings,
-  Shield,
-  CheckCircle,
-  AlertCircle,
-  Users,
-  UserCheck,
-  HelpCircle,
-  Mail,
-  Calendar,
-  BookOpen,
-} from "lucide-react"
+// // Removed lucide-react import
 // Temporary icon replacements
 const Bell = () => <span>🔔</span>
 const Share2 = () => <span>⭐</span>

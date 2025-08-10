@@ -1,6 +1,6 @@
 "use client"
 
-// import { GripVertical } from "lucide-react"
+// // Removed lucide-react import
 // Temporary icon replacements
 const GripVertical = () => <span>⭐</span>
 

@@ -8,7 +8,6 @@
     "start": "next start",
     "lint": "next lint",
     "db:init": "node -e \"require('./lib/db-postgres.ts').db.init()\"",
-    "postinstall": "echo 'Skipping Prisma generation for initial deployment'"
   },
   "dependencies": {
     "next": "14.0.4",
@@ -20,8 +19,6 @@
     "nodemailer": "^6.9.7",
     "pg": "^8.11.3",
     "uuid": "^9.0.1",
-    "prisma": "^5.6.0",
-    "@prisma/client": "^5.6.0",
     "@radix-ui/react-alert-dialog": "^1.0.4",
     "@radix-ui/react-avatar": "^1.0.3",
     "@radix-ui/react-checkbox": "^1.0.4",

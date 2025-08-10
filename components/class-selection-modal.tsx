@@ -3,7 +3,7 @@
 import type React from "react"
 
 import { useState, useEffect } from "react"
-// import { X, Search, Clock, Users, MapPin, BookOpen, GraduationCap, ArrowRight, Loader2 } from "lucide-react"
+// // Removed lucide-react import
 // Temporary icon replacements
 const X = () => <span>❌</span>
 const Search = () => <span>🔍</span>

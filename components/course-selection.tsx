@@ -6,8 +6,8 @@ import { Input } from "@/components/ui/input"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select"
 import { Badge } from "@/components/ui/badge"
-// import { Loader2, Search, Plus, Check } from "lucide-react"
-// import { toast } from "sonner"
+// // Removed lucide-react import
+// // Removed sonner import
 
 // Temporary replacements
 const Loader2 = () => <span>⏳</span>

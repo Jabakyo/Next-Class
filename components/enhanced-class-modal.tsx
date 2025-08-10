@@ -1,7 +1,7 @@
 "use client"
 
 import React, { useState, useEffect } from "react"
-// import { X, Plus, Trash2, Clock, MapPin, Users, BookOpen, Search, Edit3 } from "lucide-react"
+// // Removed lucide-react import
 // Temporary icon replacements
 const X = () => <span>❌</span>
 const Plus = () => <span>➕</span>

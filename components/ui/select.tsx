@@ -2,7 +2,7 @@
 
 import * as React from "react"
 import * as SelectPrimitive from "@radix-ui/react-select"
-// import { Check, ChevronDown, ChevronUp } from "lucide-react"
+// // Removed lucide-react import
 // Temporary icon replacements
 const Check = () => <span>✅</span>
 const ChevronDown = () => <span>⬇️</span>

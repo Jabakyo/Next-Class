@@ -1,5 +1,5 @@
 import * as React from "react"
-// import { ChevronLeft, ChevronRight, MoreHorizontal } from "lucide-react"
+// // Removed lucide-react import
 // Temporary icon replacements
 const ChevronLeft = () => <span>⬅️</span>
 const ChevronRight = () => <span>➡️</span>

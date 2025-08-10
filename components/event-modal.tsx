@@ -5,7 +5,7 @@ import type React from "react"
 import type { ReactElement } from "react"
 
 import { useState, useEffect } from "react"
-// import { X, Search } from "lucide-react"
+// // Removed lucide-react import
 // Temporary icon replacements
 const X = () => <span>❌</span>
 const Search = () => <span>🔍</span>

@@ -1,7 +1,7 @@
 "use client"
 
 import { useState } from "react"
-// import { Eye, EyeOff, Shield, Lock } from "lucide-react"
+// // Removed lucide-react import
 // Temporary icon replacements
 const Eye = () => <span>👁️</span>
 const EyeOff = () => <span>🙈</span>

@@ -1,7 +1,7 @@
 "use client"
 
 import { useTheme } from "next-themes"
-import { Toaster as Sonner } from "sonner"
+// Removed sonner import
 
 type ToasterProps = React.ComponentProps<typeof Sonner>
 

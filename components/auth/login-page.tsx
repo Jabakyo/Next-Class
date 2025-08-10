@@ -3,7 +3,7 @@
 import type React from "react"
 
 import { useState } from "react"
-// import { Eye, EyeOff, Mail, Lock } from "lucide-react"
+// // Removed lucide-react import
 // Temporary icon replacements
 const Eye = () => <span>👁️</span>
 const EyeOff = () => <span>🙈</span>

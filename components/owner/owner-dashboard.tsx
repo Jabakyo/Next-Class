@@ -1,22 +1,7 @@
 "use client"
 
 import { useState, useEffect } from "react"
-// import { 
-  Shield, 
-  LogOut, 
-  Users, 
-  CheckCircle, 
-  XCircle, 
-  Clock, 
-  Download,
-  Calendar,
-  Mail,
-  User,
-  AlertTriangle,
-  TrendingUp,
-  FileImage,
-  Trash2
-} from "lucide-react"
+// // Removed lucide-react import
 // Temporary icon replacements
 const Shield = () => <span>🛡️</span>
 const LogOut = () => <span>🚪</span>

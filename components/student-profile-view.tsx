@@ -1,6 +1,6 @@
 "use client"
 
-// import { Calendar, Clock, MapPin, User, BookOpen, Users, Mail, GraduationCap, Instagram } from "lucide-react"
+// // Removed lucide-react import
 // Temporary icon replacements
 const Calendar = () => <span>📅</span>
 const Clock = () => <span>⏰</span>

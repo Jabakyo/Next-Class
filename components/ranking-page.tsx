@@ -1,7 +1,7 @@
 "use client"
 
 import { useState, useEffect } from "react"
-// import { ArrowLeft, Trophy, Eye, TrendingUp, Medal, Crown, Award, Shield } from "lucide-react"
+// // Removed lucide-react import
 // Temporary icon replacements
 const ArrowLeft = () => <span>←</span>
 const Trophy = () => <span>⭐</span>

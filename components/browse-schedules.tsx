@@ -1,7 +1,7 @@
 "use client"
 
 import { useState, useEffect } from "react"
-// import { Search, ArrowLeft, Users, CheckCircle, Shield, Clock, XCircle } from "lucide-react"
+// // Removed lucide-react import
 // Temporary icon replacements
 const Search = () => <span>🔍</span>
 const ArrowLeft = () => <span>←</span>

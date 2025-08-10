@@ -2,7 +2,7 @@
 
 import type React from "react"
 import { useState, useRef } from "react"
-// import { X, Upload, Camera, Shield, CheckCircle, AlertCircle, Clock, XCircle } from "lucide-react"
+// // Removed lucide-react import
 // Temporary icon replacements
 const X = () => <span>❌</span>
 const Upload = () => <span>⭐</span>

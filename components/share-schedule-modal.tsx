@@ -3,7 +3,7 @@
 import type React from "react"
 
 import { useState } from "react"
-// import { X, Share2, Lock, Eye } from "lucide-react"
+// // Removed lucide-react import
 // Temporary icon replacements
 const X = () => <span>❌</span>
 const Share2 = () => <span>⭐</span>

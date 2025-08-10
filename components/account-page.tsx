@@ -2,30 +2,7 @@
 
 import { useState, useEffect } from "react"
 // Temporarily commented out lucide-react imports for deployment
-// import {
-//   ArrowLeft,
-//   User,
-//   BookOpen,
-//   Shield,
-//   CheckCircle,
-//   AlertTriangle,
-//   Trash2,
-//   Calendar,
-//   Clock,
-//   MapPin,
-//   Users,
-//   Mail,
-//   GraduationCap,
-//   Award,
-//   Eye,
-//   EyeOff,
-//   Instagram,
-//   Bell,
-//   BellOff,
-//   FileImage,
-//   Plus,
-//   Edit3,
-// } from "lucide-react"
+// // Removed lucide-react import
 
 // Temporary icon replacements
 const ArrowLeft = () => <span>←</span>

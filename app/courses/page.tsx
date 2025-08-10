@@ -6,8 +6,8 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/com
 import { Button } from "@/components/ui/button"
 import { Badge } from "@/components/ui/badge"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
-// import { BookOpen, Calendar, Trash2, Users } from "lucide-react"
-// import { toast } from "sonner"
+// // Removed lucide-react import
+// // Removed sonner import
 
 // Temporary replacements
 const BookOpen = () => <span>📚</span>

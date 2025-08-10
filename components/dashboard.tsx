@@ -13,7 +13,7 @@ import ScheduleVerificationModal from "@/components/schedule-verification-modal"
 import AccountPage from "@/components/account-page"
 import ClassChangeWarningModal from "@/components/class-change-warning-modal"
 import type { User, Event, SelectedClass } from "@/types/user"
-// import { Share2, EyeOff, Shield, Clock, XCircle } from "lucide-react"
+// // Removed lucide-react import
 // Temporary icon replacements
 const Share2 = () => <span>⭐</span>
 const EyeOff = () => <span>🙈</span>

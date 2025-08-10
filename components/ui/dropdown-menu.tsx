@@ -2,7 +2,7 @@
 
 import * as React from "react"
 import * as DropdownMenuPrimitive from "@radix-ui/react-dropdown-menu"
-// import { Check, ChevronRight, Circle } from "lucide-react"
+// // Removed lucide-react import
 // Temporary icon replacements
 const Check = () => <span>✅</span>
 const ChevronRight = () => <span>➡️</span>

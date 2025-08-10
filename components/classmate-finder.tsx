@@ -1,7 +1,7 @@
 "use client"
 
 import { useState, useEffect } from "react"
-// import { Users, Search, BookOpen, Clock, MapPin } from "lucide-react"
+// // Removed lucide-react import
 // Temporary icon replacements
 const Users = () => <span>👥</span>
 const Search = () => <span>🔍</span>

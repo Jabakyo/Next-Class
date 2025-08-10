@@ -1,7 +1,7 @@
 "use client"
 
 import { useState, useEffect } from "react"
-// import { ArrowLeft, CheckCircle, XCircle, Clock, User, Calendar, Download } from "lucide-react"
+// // Removed lucide-react import
 // Temporary icon replacements
 const ArrowLeft = () => <span>←</span>
 const CheckCircle = () => <span>✅</span>
