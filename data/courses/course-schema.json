@@ -1,0 +1,26 @@
+{
+  "courseSchema": {
+    "subjectDescription": "string",
+    "title": "string",
+    "courseNumber": "string",
+    "section": "string",
+    "term": "string",
+    "linkedSections": "string",
+    "instructor": "string",
+    "meetingTimes": "string",
+    "scheduleType": "string",
+    "attribute": "string"
+  },
+  "example": {
+    "subjectDescription": "Computer Science",
+    "title": "Introduction to Programming",
+    "courseNumber": "CS 101",
+    "section": "01",
+    "term": "Fall 2024",
+    "linkedSections": "Lab 01",
+    "instructor": "Dr. Smith",
+    "meetingTimes": "MWF 10:00-11:00",
+    "scheduleType": "Lecture",
+    "attribute": "QRFM"
+  }
+}

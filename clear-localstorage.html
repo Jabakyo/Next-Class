@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Clear LocalStorage</title>
+</head>
+<body>
+    <h1>Clear LocalStorage</h1>
+    <button onclick="clearStorage()">Clear All LocalStorage</button>
+    <div id="result"></div>
+    
+    <script>
+        function clearStorage() {
+            // Clear all localStorage
+            localStorage.clear();
+            
+            // Show result
+            document.getElementById('result').innerHTML = '<p style="color: green;">LocalStorage cleared successfully!</p>';
+            
+            // Show what was cleared
+            console.log('LocalStorage cleared');
+        }
+        
+        // Show current localStorage contents
+        console.log('Current localStorage contents:');
+        for (let i = 0; i < localStorage.length; i++) {
+            const key = localStorage.key(i);
+            console.log(key + ':', localStorage.getItem(key));
+        }
+    </script>
+</body>
+</html>

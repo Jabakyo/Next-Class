@@ -1,0 +1,809 @@
+Music-Performance Studies	Cello (7th semester)	413	12	7130	Fall 2025	
+Cameron, Michael (Primary)
+Gray, Ellen
+None
+S
+M
+T
+W
+T
+F
+S
+ - Type: Class Building: None Room: None Start Date: 09/01/2025 End Date: 12/20/2025
+Individual	Can't be taken pass/fail
+
+0.5	
+Music-Performance Studies	Clarinet (7th semester)	413	13	7139	Fall 2025	
+Chang, Jihoon (Primary)
+Gray, Ellen
+None
+S
+M
+T
+W
+T
+F
+S
+ - Type: Class Building: None Room: None Start Date: 09/01/2025 End Date: 12/20/2025
+Individual	Can't be taken pass/fail
+
+0.5	
+Music-Performance Studies	Bass: String/Upright (7th semester)	413	14	7132	Fall 2025	
+Gray, Ellen
+Krauss, Brian (Primary)
+None
+S
+M
+T
+W
+T
+F
+S
+ - Type: Class Building: None Room: None Start Date: 09/01/2025 End Date: 12/20/2025
+Individual	Can't be taken pass/fail
+
+0.5	
+Music-Performance Studies	Flute (7th semester)	413	15	7128	Fall 2025	
+Gray, Ellen
+Goranson, Jocelyn (Primary)
+None
+S
+M
+T
+W
+T
+F
+S
+ - Type: Class Building: None Room: None Start Date: 09/01/2025 End Date: 12/20/2025
+Individual	Can't be taken pass/fail
+
+0.5	
+Music-Performance Studies	French Horn (7th semester)	413	16	7135	Fall 2025	
+Gray, Ellen
+Salyards, Grace (Primary)
+None
+S
+M
+T
+W
+T
+F
+S
+ - Type: Class Building: None Room: None Start Date: 09/01/2025 End Date: 12/20/2025
+Individual	Can't be taken pass/fail
+
+0.5	
+Music-Performance Studies	Guitar (7th semester)	413	17	7129	Fall 2025	
+Hontz, Jim (Primary)
+Gray, Ellen
+None
+S
+M
+T
+W
+T
+F
+S
+ - Type: Class Building: None Room: None Start Date: 09/01/2025 End Date: 12/20/2025
+Individual	Can't be taken pass/fail
+
+0.5	
+Music-Performance Studies	Harp (7th semester)	413	18	7143	Fall 2025	
+Hunter, Ruth (Primary)
+Gray, Ellen
+None
+S
+M
+T
+W
+T
+F
+S
+ - Type: Class Building: None Room: None Start Date: 09/01/2025 End Date: 12/20/2025
+Individual	Can't be taken pass/fail
+
+0.5	
+Music-Performance Studies	Harpsichord (7th semester)	413	19	7142	Fall 2025	
+Gray, Ellen
+Koby, Hannah (Primary)
+None
+S
+M
+T
+W
+T
+F
+S
+ - Type: Class Building: None Room: None Start Date: 09/01/2025 End Date: 12/20/2025
+Individual	Can't be taken pass/fail
+
+0.5	
+Music-Performance Studies	Jazz Piano (7th semester)	413	20	7125	Fall 2025	
+Blyth, Jennifer (Primary)
+Strohman, Greg
+None
+S
+M
+T
+W
+T
+F
+S
+ - Type: Class Building: None Room: None Start Date: 09/01/2025 End Date: 12/20/2025
+Individual	Can't be taken pass/fail
+
+0.5	
+Music-Performance Studies	Oboe (7th semester)	413	21	7137	Fall 2025	
+Gray, Ellen
+Carraher, Megan (Primary)
+None
+S
+M
+T
+W
+T
+F
+S
+ - Type: Class Building: None Room: None Start Date: 09/01/2025 End Date: 12/20/2025
+Individual	Can't be taken pass/fail
+
+0.5	
+Music-Performance Studies	Organ (7th semester)	413	22	7141	Fall 2025	
+Gray, Ellen
+Koby, Hannah (Primary)
+None
+S
+M
+T
+W
+T
+F
+S
+ - Type: Class Building: None Room: None Start Date: 09/01/2025 End Date: 12/20/2025
+Individual	Can't be taken pass/fail
+
+0.5	
+Music-Performance Studies	Percussion (7th semester)	413	23	7136	Fall 2025	
+Zygmunt, David (Primary)
+Gray, Ellen
+None
+S
+M
+T
+W
+T
+F
+S
+ - Type: Class Building: None Room: None Start Date: 09/01/2025 End Date: 12/20/2025
+Individual	Can't be taken pass/fail
+
+0.5	
+Music-Performance Studies	Piano (7th semester)	413	24	7124	Fall 2025	
+Blyth, Jennifer (Primary)
+Kim, Eun Ae
+Sokol-Albert, Andi
+Strohman, Greg
+Gray, Ellen
+Etnoyer, Elizabeth
+Gorman, Kevin
+None
+S
+M
+T
+W
+T
+F
+S
+ - Type: Class Building: None Room: None Start Date: 09/01/2025 End Date: 12/20/2025
+Individual	Can't be taken pass/fail
+
+0.5	
+Music-Performance Studies	Saxophone (7th semester)	413	25	7140	Fall 2025	
+Chang, Jihoon (Primary)
+Gray, Ellen
+None
+S
+M
+T
+W
+T
+F
+S
+ - Type: Class Building: None Room: None Start Date: 09/01/2025 End Date: 12/20/2025
+Individual	Can't be taken pass/fail
+
+0.5	
+Music-Performance Studies	Trombone (7th semester)	413	26	7131	Fall 2025	
+Strohman, Greg (Primary)
+Gray, Ellen
+None
+S
+M
+T
+W
+T
+F
+S
+ - Type: Class Building: None Room: None Start Date: 09/01/2025 End Date: 12/20/2025
+Individual	Can't be taken pass/fail
+
+0.5	
+Music-Performance Studies	Trumpet (7th semester)	413	27	7133	Fall 2025	
+Wohlbach, Jeff (Primary)
+Gray, Ellen
+None
+S
+M
+T
+W
+T
+F
+S
+ - Type: Class Building: None Room: None Start Date: 09/01/2025 End Date: 12/20/2025
+Individual	Can't be taken pass/fail
+
+0.5	
+Music-Performance Studies	Tuba/Euphonium (7th semester)	413	28	7134	Fall 2025	
+Strohman, Greg (Primary)
+Gray, Ellen
+None
+S
+M
+T
+W
+T
+F
+S
+ - Type: Class Building: None Room: None Start Date: 09/01/2025 End Date: 12/20/2025
+Individual	Can't be taken pass/fail
+
+0.5	
+Music-Performance Studies	Violin/Viola (7th semester)	413	29	7127	Fall 2025	
+Brye, Daniel
+Borowski, Emmanuel (Primary)
+Gray, Ellen
+None
+S
+M
+T
+W
+T
+F
+S
+ - Type: Class Building: None Room: None Start Date: 09/01/2025 End Date: 12/20/2025
+Individual	Can't be taken pass/fail
+
+0.5	
+Music-Performance Studies	Voice (7th semester)	413	30	7126	Fall 2025	
+Aragunde, Elizabeth
+Gray, Ellen
+Martin, James (Primary)
+Lupia, Timothy
+Turchi, Lisa
+None
+S
+M
+T
+W
+T
+F
+S
+ - Type: Class Building: None Room: None Start Date: 09/01/2025 End Date: 12/20/2025
+Individual	Can't be taken pass/fail
+
+0.5	
+Music-Performance Studies	Mallet Percussion (7th Semester)	413	31	7180	Fall 2025	
+Zygmunt, David (Primary)
+Gray, Ellen
+None
+S
+M
+T
+W
+T
+F
+S
+ - Type: Class Building: None Room: None Start Date: 09/01/2025 End Date: 12/20/2025
+Individual	Can't be taken pass/fail
+
+0.5	
+Music-Performance Studies	Bass: Electric (7th semester)	413	32	7188	Fall 2025	
+Krauss, Brian (Primary)
+Gray, Ellen
+Kuehrmann, Otto
+None
+S
+M
+T
+W
+T
+F
+S
+ - Type: Class Building: None Room: None Start Date: 09/01/2025 End Date: 12/20/2025
+Individual	Can't be taken pass/fail
+
+0.5	
+Music-Performance Studies	Jazz Improvisation (7th Semester)	413	33	7198	Fall 2025	
+Strohman, Greg (Primary)
+Gray, Ellen
+None
+S
+M
+T
+W
+T
+F
+S
+ - Type: Class Building: None Room: None Start Date: 09/01/2025 End Date: 12/20/2025
+Individual	Can't be taken pass/fail
+
+0.5	
+Music-Performance Studies	Bassoon (8th semester)	414	11	7158	Fall 2025	
+Buchar Nolet, Kimberly (Primary)
+Gray, Ellen
+None
+S
+M
+T
+W
+T
+F
+S
+ - Type: Class Building: None Room: None Start Date: 09/01/2025 End Date: 12/20/2025
+Individual	Can't be taken pass/fail
+
+0.5	
+Music-Performance Studies	Cello (8th semester)	414	12	7150	Fall 2025	
+Cameron, Michael (Primary)
+Gray, Ellen
+None
+S
+M
+T
+W
+T
+F
+S
+ - Type: Class Building: None Room: None Start Date: 09/01/2025 End Date: 12/20/2025
+Individual	Can't be taken pass/fail
+
+0.5	
+Music-Performance Studies	Clarinet (8th semester)	414	13	7159	Fall 2025	
+Chang, Jihoon (Primary)
+Gray, Ellen
+None
+S
+M
+T
+W
+T
+F
+S
+ - Type: Class Building: None Room: None Start Date: 09/01/2025 End Date: 12/20/2025
+Individual	Can't be taken pass/fail
+
+0.5	
+Music-Performance Studies	Bass: String/Upright (8th semester)	414	14	7152	Fall 2025	
+Krauss, Brian (Primary)
+Gray, Ellen
+None
+S
+M
+T
+W
+T
+F
+S
+ - Type: Class Building: None Room: None Start Date: 09/01/2025 End Date: 12/20/2025
+Individual	Can't be taken pass/fail
+
+0.5	
+Music-Performance Studies	Flute (8th semester)	414	15	7148	Fall 2025	
+Gray, Ellen
+Goranson, Jocelyn (Primary)
+None
+S
+M
+T
+W
+T
+F
+S
+ - Type: Class Building: None Room: None Start Date: 09/01/2025 End Date: 12/20/2025
+Individual	Can't be taken pass/fail
+
+0.5	
+Music-Performance Studies	French Horn (8th semester)	414	16	7155	Fall 2025	
+Gray, Ellen
+Salyards, Grace (Primary)
+None
+S
+M
+T
+W
+T
+F
+S
+ - Type: Class Building: None Room: None Start Date: 09/01/2025 End Date: 12/20/2025
+Individual	Can't be taken pass/fail
+
+0.5	
+Music-Performance Studies	Guitar (8th semester)	414	17	7149	Fall 2025	
+Hontz, Jim (Primary)
+Gray, Ellen
+None
+S
+M
+T
+W
+T
+F
+S
+ - Type: Class Building: None Room: None Start Date: 09/01/2025 End Date: 12/20/2025
+Individual	Can't be taken pass/fail
+
+0.5	
+Music-Performance Studies	Harp (8th semester)	414	18	7163	Fall 2025	
+Hunter, Ruth (Primary)
+Gray, Ellen
+None
+S
+M
+T
+W
+T
+F
+S
+ - Type: Class Building: None Room: None Start Date: 09/01/2025 End Date: 12/20/2025
+Individual	Can't be taken pass/fail
+
+0.5	
+Music-Performance Studies	Harpsichord (8th semester)	414	19	7162	Fall 2025	
+Gray, Ellen
+Koby, Hannah (Primary)
+None
+S
+M
+T
+W
+T
+F
+S
+ - Type: Class Building: None Room: None Start Date: 09/01/2025 End Date: 12/20/2025
+Individual	Can't be taken pass/fail
+
+0.5	
+Music-Performance Studies	Jazz Piano (8th semester)	414	20	7145	Fall 2025	
+Blyth, Jennifer (Primary)
+Strohman, Greg
+None
+S
+M
+T
+W
+T
+F
+S
+ - Type: Class Building: None Room: None Start Date: 09/01/2025 End Date: 12/20/2025
+Individual	Can't be taken pass/fail
+
+0.5	
+Music-Performance Studies	Oboe (8th semester)	414	21	7157	Fall 2025	
+Gray, Ellen
+Carraher, Megan (Primary)
+None
+S
+M
+T
+W
+T
+F
+S
+ - Type: Class Building: None Room: None Start Date: 09/01/2025 End Date: 12/20/2025
+Individual	Can't be taken pass/fail
+
+0.5	
+Music-Performance Studies	Organ (8th semester)	414	22	7161	Fall 2025	
+Gray, Ellen
+Koby, Hannah (Primary)
+None
+S
+M
+T
+W
+T
+F
+S
+ - Type: Class Building: None Room: None Start Date: 09/01/2025 End Date: 12/20/2025
+Individual	Can't be taken pass/fail
+
+0.5	
+Music-Performance Studies	Percussion (8th semester)	414	23	7156	Fall 2025	
+Zygmunt, David (Primary)
+Gray, Ellen
+None
+S
+M
+T
+W
+T
+F
+S
+ - Type: Class Building: None Room: None Start Date: 09/01/2025 End Date: 12/20/2025
+Individual	Can't be taken pass/fail
+
+0.5	
+Music-Performance Studies	Piano (8th semester)	414	24	7144	Fall 2025	
+Blyth, Jennifer (Primary)
+Kim, Eun Ae
+Sokol-Albert, Andi
+Strohman, Greg
+Gray, Ellen
+Etnoyer, Elizabeth
+Gorman, Kevin
+None
+S
+M
+T
+W
+T
+F
+S
+ - Type: Class Building: None Room: None Start Date: 09/01/2025 End Date: 12/20/2025
+Individual	Can't be taken pass/fail
+
+0.5	
+Music-Performance Studies	Saxophone (8th semester)	414	25	7160	Fall 2025	
+Chang, Jihoon (Primary)
+Gray, Ellen
+None
+S
+M
+T
+W
+T
+F
+S
+ - Type: Class Building: None Room: None Start Date: 09/01/2025 End Date: 12/20/2025
+Individual	Can't be taken pass/fail
+
+0.5	
+Music-Performance Studies	Trombone (8th semester)	414	26	7151	Fall 2025	
+Strohman, Greg (Primary)
+Gray, Ellen
+None
+S
+M
+T
+W
+T
+F
+S
+ - Type: Class Building: None Room: None Start Date: 09/01/2025 End Date: 12/20/2025
+Individual	Can't be taken pass/fail
+
+0.5	
+Music-Performance Studies	Trumpet (8th semester)	414	27	7153	Fall 2025	
+Wohlbach, Jeff (Primary)
+Gray, Ellen
+None
+S
+M
+T
+W
+T
+F
+S
+ - Type: Class Building: None Room: None Start Date: 09/01/2025 End Date: 12/20/2025
+Individual	Can't be taken pass/fail
+
+0.5	
+Music-Performance Studies	Tuba/Euphonium (8th semester)	414	28	7154	Fall 2025	
+Strohman, Greg (Primary)
+Gray, Ellen
+None
+S
+M
+T
+W
+T
+F
+S
+ - Type: Class Building: None Room: None Start Date: 09/01/2025 End Date: 12/20/2025
+Individual	Can't be taken pass/fail
+
+0.5	
+Music-Performance Studies	Violin/Viola (8th semester)	414	29	7147	Fall 2025	
+Brye, Daniel
+Borowski, Emmanuel (Primary)
+Gray, Ellen
+None
+S
+M
+T
+W
+T
+F
+S
+ - Type: Class Building: None Room: None Start Date: 09/01/2025 End Date: 12/20/2025
+Individual	Can't be taken pass/fail
+
+0.5	
+Music-Performance Studies	Voice (8th semester)	414	30	7146	Fall 2025	
+Aragunde, Elizabeth
+Gray, Ellen
+Martin, James (Primary)
+Lupia, Timothy
+Turchi, Lisa
+None
+S
+M
+T
+W
+T
+F
+S
+ - Type: Class Building: None Room: None Start Date: 09/01/2025 End Date: 12/20/2025
+Individual	Can't be taken pass/fail
+
+0.5	
+Music-Performance Studies	Mallet Percussion (8th Semester)	414	31	7181	Fall 2025	
+Zygmunt, David (Primary)
+Gray, Ellen
+None
+S
+M
+T
+W
+T
+F
+S
+ - Type: Class Building: None Room: None Start Date: 09/01/2025 End Date: 12/20/2025
+Individual	Can't be taken pass/fail
+
+0.5	
+Music-Performance Studies	Bass: Electric (8th semester)	414	32	7189	Fall 2025	
+Krauss, Brian (Primary)
+Gray, Ellen
+Kuehrmann, Otto
+None
+S
+M
+T
+W
+T
+F
+S
+ - Type: Class Building: None Room: None Start Date: 09/01/2025 End Date: 12/20/2025
+Individual	Can't be taken pass/fail
+
+0.5	
+Music-Performance Studies	Jazz Improvisation (8th Semester)	414	33	7197	Fall 2025	
+Strohman, Greg (Primary)
+Gray, Ellen
+None
+S
+M
+T
+W
+T
+F
+S
+ - Type: Class Building: None Room: None Start Date: 09/01/2025 End Date: 12/20/2025
+Individual	Can't be taken pass/fail
+
+0.5	
+Music-Performance Studies	Performance Studies IV (Performance Emphasis, with senior recital)	423	01	7168	Fall 2025	
+Blyth, Jennifer
+Gray, Ellen
+Martin, James (Primary)
+None
+S
+M
+T
+W
+T
+F
+S
+ - Type: Class Building: None Room: None Start Date: 09/01/2025 End Date: 12/20/2025
+Individual	Arts
+
+1	
+Music-Performance Studies	Performance Studies IV (Performance Emphasis, with senior recital)	424	01	7169	Fall 2025	
+Blyth, Jennifer
+Gray, Ellen
+Martin, James (Primary)
+None
+S
+M
+T
+W
+T
+F
+S
+ - Type: Class Building: None Room: None Start Date: 09/01/2025 End Date: 12/20/2025
+Individual	Arts
+
+1	
+Music-Ensemble	Chamber Music B	009	01	7006	Fall 2025	
+Cameron, Michael (Primary)
+None
+S
+M
+T
+W
+T
+F
+S
+ - Type: Class Building: None Room: None Start Date: 09/01/2025 End Date: 12/20/2025
+Music Department Ensemble	Appropriate for First-Year
+
+0	
+Music-Ensemble	College Choir	009	02	7001	Fall 2025	
+Wlodarski, Amy (Primary)
+Tuesday,Thursday
+S
+M
+T
+W
+T
+F
+S
+05:00 PM - 06:15 PM Type: Class Building: Weiss Center for the Arts Room: 108 Start Date: 09/01/2025 End Date: 12/20/2025
+Tuesday,Thursday
+S
+M
+T
+W
+T
+F
+S
+05:00 PM - 06:15 PM Type: Class Building: Weiss Center for the Arts Room: 12 Start Date: 09/01/2025 End Date: 12/20/2025
+Music Department Ensemble	Appropriate for First-Year
+
+College Choir
+
+0	
+Music-Ensemble	Jazz Band	009	04	7002	Fall 2025	
+Wohlbach, Jeff (Primary)
+Tuesday
+S
+M
+T
+W
+T
+F
+S
+07:00 PM - 09:15 PM Type: Class Building: Weiss Center for the Arts Room: 221 Start Date: 09/01/2025 End Date: 12/20/2025
+Tuesday
+S
+M
+T
+W
+T
+F
+S
+07:00 PM - 09:15 PM Type: Class Building: Weiss Center for the Arts Room: 235 Start Date: 09/01/2025 End Date: 12/20/2025
+Tuesday
+S
+M
+T
+W
+T
+F
+S
+07:00 PM - 09:15 PM Type: Class Building: Weiss Center for the Arts Room: 12 Start Date: 09/01/2025 End Date: 12/20/2025
+Tuesday
+S
+M
+T
+W
+T
+F
+S
+07:00 PM - 09:15 PM Type: Class Building: Weiss Center for the Arts Room: 108 Start Date: 09/01/2025 End Date: 12/20/2025
+Music Department Ensemble	Appropriate for First-Year
+
+Jazz Band
+
+0

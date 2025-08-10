@@ -1,0 +1,2746 @@
+Music-Ensemble	College-Community Orchestra	009	05	7003	Fall 2025	
+Kozak, Ryan (Primary)
+Wednesday
+S
+M
+T
+W
+T
+F
+S
+07:00 PM - 09:15 PM Type: Class Building: Weiss Center for the Arts Room: 221 Start Date: 09/01/2025 End Date: 12/20/2025
+Wednesday
+S
+M
+T
+W
+T
+F
+S
+07:00 PM - 09:15 PM Type: Class Building: Weiss Center for the Arts Room: 12 Start Date: 09/01/2025 End Date: 12/20/2025
+Wednesday
+S
+M
+T
+W
+T
+F
+S
+07:00 PM - 09:15 PM Type: Class Building: Weiss Center for the Arts Room: 235 Start Date: 09/01/2025 End Date: 12/20/2025
+Wednesday
+S
+M
+T
+W
+T
+F
+S
+07:00 PM - 09:15 PM Type: Class Building: Weiss Center for the Arts Room: 108 Start Date: 09/01/2025 End Date: 12/20/2025
+Music Department Ensemble	Appropriate for First-Year
+
+College-Community Orchestra
+
+0	
+Music-Ensemble	Chamber Music A	009	06	7004	Fall 2025	
+Cameron, Michael (Primary)
+None
+S
+M
+T
+W
+T
+F
+S
+ - Type: Class Building: None Room: None Start Date: 09/01/2025 End Date: 12/20/2025
+Music Department Ensemble	Chamber Music
+
+0	
+Music-Academic	Keys to Music 1: Overture	115	01	7490	Fall 2025	
+Hontz, Jim (Primary)
+Monday,Thursday
+S
+M
+T
+W
+T
+F
+S
+03:00 PM - 04:15 PM Type: Class Building: Weiss Center for the Arts Room: 221 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Arts
+
+Appropriate for First-Year
+
+1	
+Music-Academic	Keys to Music 2: Sacred Roots	125	01	7493	Fall 2025	
+Strohman, Greg (Primary)
+Koby, Hannah
+Monday,Tuesday,Wednesday,Thursday,Friday
+S
+M
+T
+W
+T
+F
+S
+09:30 AM - 10:20 AM Type: Class Building: Weiss Center for the Arts Room: 212 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Arts
+
+Humanities
+
+Appropriate for First-Year
+
+MEMS Elective
+
+Quantitative Reasoning
+
+1	
+Music-Academic	Introduction to the Art of Composition	131	01	7497	Fall 2025	
+Strohman, Greg (Primary)
+None
+S
+M
+T
+W
+T
+F
+S
+ - Type: Class Building: Weiss Center for the Arts Room: 212 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Appropriate for First-Year
+
+0.5	
+Music-Academic	Living Music, Modern and Contemporary	133	01	7503	Fall 2025	
+Strohman, Greg (Primary)
+None
+S
+M
+T
+W
+T
+F
+S
+ - Type: Class Building: Weiss Center for the Arts Room: 212 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Appropriate for First-Year
+
+0.5	
+Music-Academic	Music Creation and Production	137	01	7505	Fall 2025	
+Strohman, Greg (Primary)
+Monday
+S
+M
+T
+W
+T
+F
+S
+08:15 PM - 09:30 PM Type: Class Building: Weiss Center for the Arts Room: 235 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Arts
+
+0.5	
+Music-Academic	Listening Across Cultures	209	01	7506	Fall 2025	
+Gray, Ellen (Primary)
+Tuesday,Friday
+S
+M
+T
+W
+T
+F
+S
+03:00 PM - 04:15 PM Type: Class Building: Weiss Center for the Arts Room: 235 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	ANTH in Other Fields
+
+Arts
+
+Global Diversity
+
+1	
+Music-Academic	Keep the Peace, Spare the Clash: Basic Composing, Note Against Note	231	01	7507	Fall 2025	
+Strohman, Greg (Primary)
+None
+S
+M
+T
+W
+T
+F
+S
+ - Type: Class Building: Weiss Center for the Arts Room: 212 Start Date: 09/01/2025 End Date: 12/20/2025
+Class		0.5	
+Music-Academic	Living Music, Modern and Contemporary	233	01	7511	Fall 2025	
+Strohman, Greg (Primary)
+None
+S
+M
+T
+W
+T
+F
+S
+ - Type: Class Building: Weiss Center for the Arts Room: 212 Start Date: 09/01/2025 End Date: 12/20/2025
+Class		0.5	
+Music-Academic	Music Creation and Production	237	01	7513	Fall 2025	
+Strohman, Greg (Primary)
+Monday
+S
+M
+T
+W
+T
+F
+S
+08:15 PM - 09:30 PM Type: Class Building: Weiss Center for the Arts Room: 235 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Arts
+
+0.5	
+Music-Academic	Keys to Music 4: Desire and Discord	245	01	7515	Fall 2025	
+Strohman, Greg (Primary)
+Monday,Tuesday,Wednesday,Thursday,Friday
+S
+M
+T
+W
+T
+F
+S
+10:30 AM - 11:20 AM Type: Class Building: Weiss Center for the Arts Room: 212 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Arts
+
+Quantitative Reasoning
+
+1	
+Music-Academic	Intermediate Composition Lessons: Composing with Electronic Media	331	01	7517	Fall 2025	
+Strohman, Greg (Primary)
+None
+S
+M
+T
+W
+T
+F
+S
+ - Type: Class Building: Weiss Center for the Arts Room: 212 Start Date: 09/01/2025 End Date: 12/20/2025
+Class		0.5	
+Music-Academic	Living Music, Modern and Contemporary	333	01	7518	Fall 2025	
+Strohman, Greg (Primary)
+None
+S
+M
+T
+W
+T
+F
+S
+ - Type: Class Building: Weiss Center for the Arts Room: 212 Start Date: 09/01/2025 End Date: 12/20/2025
+Class		0.5	
+Music-Academic	Composition Studies I: Orchestration	335	01	7526	Fall 2025	
+Strohman, Greg (Primary)
+None
+S
+M
+T
+W
+T
+F
+S
+ - Type: Class Building: Weiss Center for the Arts Room: 212 Start Date: 09/01/2025 End Date: 12/20/2025
+Class		0.5	
+Music-Academic	German Music and Politics	354	01	7529	Fall 2025	
+Wlodarski, Amy (Primary)
+Tuesday,Friday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 02:45 PM Type: Class Building: Weiss Center for the Arts Room: 212 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Arts
+
+Judaic Studies Elective
+
+Religion - Western Traditions
+
+Writing in the Discipline
+
+1	
+Music-Academic	Senior Colloquium	401	01	7534	Fall 2025	
+Gray, Ellen (Primary)
+Wednesday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 04:30 PM Type: Class Building: Weiss Center for the Arts Room: 212 Start Date: 09/01/2025 End Date: 12/20/2025
+Class		1	
+Military Science	Foundations of Basic Leadership	101	01	7749	Fall 2025	
+Jansen, Dylan (Primary)
+Ragan, Tim
+Thursday
+S
+M
+T
+W
+T
+F
+S
+03:00 PM - 04:15 PM Type: Class Building: 554 W Louther St Room: CONF ROOM Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Appropriate for First-Year
+
+0	
+Military Science	Leadership and Decision Making	201	01	7750	Fall 2025	
+Jansen, Dylan (Primary)
+Ragan, Tim
+Thursday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 02:45 PM Type: Class Building: 554 W Louther St Room: CONF ROOM Start Date: 09/01/2025 End Date: 12/20/2025
+Class		0	
+Military Science	Adaptive Military Team Leadership	301	01	7751	Fall 2025	
+Christy, Jaime (Primary)
+Ragan, Tim
+Wednesday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 03:30 PM Type: Class Building: Althouse Hall Room: 106 Start Date: 09/01/2025 End Date: 12/20/2025
+Class		0	
+Military Science	Adaptive Military Leadership	401	01	7752	Fall 2025	
+Phillips, Jacob (Primary)
+Ragan, Tim
+Tuesday,Thursday
+S
+M
+T
+W
+T
+F
+S
+10:30 AM - 11:45 AM Type: Class Building: 554 W Louther St Room: CONF ROOM Start Date: 09/01/2025 End Date: 12/20/2025
+Class		1	
+Middle East Studies	Arab Feminism: Then and Now, Image and Reality, Secular and Religious	200	01	7478	Fall 2025	
+Siekert, Magda (Primary)
+Monday,Thursday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 02:45 PM Type: Class Building: Denny Hall Room: 103 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Humanities
+
+FLIC Arabic
+
+Appropriate for First-Year
+
+Global Diversity
+
+INST Middle East/N Africa Crse
+
+Middle East Humanities
+
+Middle East Social Science
+
+WGSS Hist/Theories/Represent
+
+WGSS Transntl/Global Perspect
+
+1	
+Middle East Studies	International Politics of the Middle East	266	01	7484	Fall 2025	
+Webb, Ed (Primary)
+Tuesday,Friday
+S
+M
+T
+W
+T
+F
+S
+03:00 PM - 04:15 PM Type: Class Building: Denny Hall Room: 103 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Social Sciences
+
+Global Diversity
+
+INST Middle East/N Africa Crse
+
+INST Global Security
+
+LAWP Policy Elective
+
+Middle East Social Science
+
+Sustainability Connections
+
+Security Studies Course
+
+Writing in the Discipline
+
+1	
+Middle East Studies	Islam and the West	272	01	7487	Fall 2025	
+Love, Erik (Primary)
+Tuesday,Friday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 02:45 PM Type: Class Building: Denny Hall Room: 304 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	AMST Struct & Instit Elective
+
+Social Sciences
+
+Global Diversity
+
+Middle East Social Science
+
+1	
+Medieval & Early Mdrn. Studies	Mapping the Global Middle Ages	200	02	7821	Fall 2025	
+Skalak, Chelsea (Primary)
+Tuesday,Thursday
+S
+M
+T
+W
+T
+F
+S
+10:30 AM - 11:45 AM Type: Class Building: East College Room: 301 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Humanities
+
+1	
+Mathematics	Elementary Statistics	121	01	7423	Fall 2025	
+Mixell, Tony (Primary)
+Tuesday,Thursday
+S
+M
+T
+W
+T
+F
+S
+09:00 AM - 10:15 AM Type: Class Building: Tome Scientific Building Room: 121 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	ARCH Area A Elective
+
+ARCH Area B Elective
+
+ENST Foundations (ESFN)
+
+Appropriate for First-Year
+
+LPPM Empirical Social Analysis
+
+Quantitative Reasoning
+
+1	
+Mathematics	Elementary Statistics	121	02	7426	Fall 2025	
+Mixell, Tony (Primary)
+Tuesday,Thursday
+S
+M
+T
+W
+T
+F
+S
+10:30 AM - 11:45 AM Type: Class Building: Tome Scientific Building Room: 121 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	ARCH Area A Elective
+
+ARCH Area B Elective
+
+ENST Foundations (ESFN)
+
+Appropriate for First-Year
+
+LPPM Empirical Social Analysis
+
+Quantitative Reasoning
+
+1	
+Mathematics	Elementary Statistics	121	03	7429	Fall 2025	
+Ernst, Jeff (Primary)
+Monday,Thursday
+S
+M
+T
+W
+T
+F
+S
+03:00 PM - 04:15 PM Type: Class Building: Tome Scientific Building Room: 121 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	ARCH Area A Elective
+
+ARCH Area B Elective
+
+ENST Foundations (ESFN)
+
+Appropriate for First-Year
+
+LPPM Empirical Social Analysis
+
+Quantitative Reasoning
+
+1	
+Mathematics	Introduction to Calculus	151	01	7431	Fall 2025	
+McKay, Tracy (Primary)
+Monday,Wednesday,Friday
+S
+M
+T
+W
+T
+F
+S
+09:30 AM - 10:20 AM Type: Class Building: Tome Scientific Building Room: 120 Start Date: 09/01/2025 End Date: 12/20/2025
+Tuesday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 02:50 PM Type: Class Building: Tome Scientific Building Room: 120 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	ENST Foundations (ESFN)
+
+Appropriate for First-Year
+
+Quantitative Reasoning
+
+1	
+Mathematics	Introduction to Calculus	151	02	7435	Fall 2025	
+McKay, Tracy (Primary)
+Monday,Wednesday,Friday
+S
+M
+T
+W
+T
+F
+S
+10:30 AM - 11:20 AM Type: Class Building: Tome Scientific Building Room: 120 Start Date: 09/01/2025 End Date: 12/20/2025
+Tuesday
+S
+M
+T
+W
+T
+F
+S
+03:00 PM - 04:20 PM Type: Class Building: Tome Scientific Building Room: 120 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	ENST Foundations (ESFN)
+
+Appropriate for First-Year
+
+Quantitative Reasoning
+
+1	
+Mathematics	Single Variable Calculus	170	01	7437	Fall 2025	
+Fowler, Chris (Primary)
+Tuesday,Thursday
+S
+M
+T
+W
+T
+F
+S
+09:00 AM - 10:15 AM Type: Class Building: Tome Scientific Building Room: 118 Start Date: 09/01/2025 End Date: 12/20/2025
+Tuesday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 02:50 PM Type: Class Building: Tome Scientific Building Room: 121 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	ENST Foundations (ESFN)
+
+Appropriate for First-Year
+
+Quantitative Reasoning
+
+1	
+Mathematics	Single Variable Calculus	170	02	7440	Fall 2025	
+Tesman, Barry (Primary)
+Monday,Wednesday,Friday
+S
+M
+T
+W
+T
+F
+S
+09:30 AM - 10:20 AM Type: Class Building: Tome Scientific Building Room: 117 Start Date: 09/01/2025 End Date: 12/20/2025
+Thursday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 02:50 PM Type: Class Building: Tome Scientific Building Room: 120 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	ENST Foundations (ESFN)
+
+Appropriate for First-Year
+
+Quantitative Reasoning
+
+1	
+Mathematics	Single Variable Calculus	170	03	7442	Fall 2025	
+Innerst, Melissa (Primary)
+Monday,Wednesday,Friday
+S
+M
+T
+W
+T
+F
+S
+11:30 AM - 12:20 PM Type: Class Building: Tome Scientific Building Room: 117 Start Date: 09/01/2025 End Date: 12/20/2025
+Monday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 02:50 PM Type: Class Building: Tome Scientific Building Room: 120 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	ENST Foundations (ESFN)
+
+Appropriate for First-Year
+
+Quantitative Reasoning
+
+1	
+Mathematics	Single Variable Calculus	170	04	7444	Fall 2025	
+Fowler, Chris (Primary)
+Tuesday,Thursday
+S
+M
+T
+W
+T
+F
+S
+10:30 AM - 11:45 AM Type: Class Building: Tome Scientific Building Room: 118 Start Date: 09/01/2025 End Date: 12/20/2025
+Thursday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 02:50 PM Type: Class Building: Tome Scientific Building Room: 118 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	ENST Foundations (ESFN)
+
+Appropriate for First-Year
+
+Quantitative Reasoning
+
+1	
+Mathematics	Multivariable Calculus	171	01	7446	Fall 2025	
+Forrester, Jeffrey (Primary)
+Monday,Wednesday,Friday
+S
+M
+T
+W
+T
+F
+S
+08:30 AM - 09:20 AM Type: Class Building: Tome Scientific Building Room: 120 Start Date: 09/01/2025 End Date: 12/20/2025
+Tuesday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 02:50 PM Type: Class Building: Tome Scientific Building Room: 118 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	ENST Foundations (ESFN)
+
+Appropriate for First-Year
+
+1	
+Mathematics	Multivariable Calculus	171	02	7448	Fall 2025	
+Schaefer, Jennifer (Primary)
+Monday,Wednesday,Friday
+S
+M
+T
+W
+T
+F
+S
+10:30 AM - 11:20 AM Type: Class Building: Tome Scientific Building Room: 122 Start Date: 09/01/2025 End Date: 12/20/2025
+Wednesday
+S
+M
+T
+W
+T
+F
+S
+03:00 PM - 04:20 PM Type: Class Building: Tome Scientific Building Room: 120 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	ENST Foundations (ESFN)
+
+Appropriate for First-Year
+
+1	
+Mathematics	Multivariable Calculus	171	03	7834	Fall 2025	
+Friedlander, Holley (Primary)
+Tuesday,Thursday
+S
+M
+T
+W
+T
+F
+S
+10:30 AM - 11:45 AM Type: Class Building: Tome Scientific Building Room: 120 Start Date: 09/01/2025 End Date: 12/20/2025
+Wednesday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 02:50 PM Type: Class Building: Tome Scientific Building Room: 120 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	ENST Foundations (ESFN)
+
+Appropriate for First-Year
+
+1	
+Mathematics	Introduction to Data Science	180	01	7450	Fall 2025	
+Wang, Lulu (Primary)
+Tuesday,Thursday
+S
+M
+T
+W
+T
+F
+S
+09:00 AM - 10:15 AM Type: Class Building: Denny Hall Room: 104 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	ENST Foundations (ESFN)
+
+Appropriate for First-Year
+
+1	
+Mathematics	Introduction to Data Science	180	02	7452	Fall 2025	
+Wang, Lulu (Primary)
+Tuesday,Thursday
+S
+M
+T
+W
+T
+F
+S
+10:30 AM - 11:45 AM Type: Class Building: Denny Hall Room: 104 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	ENST Foundations (ESFN)
+
+Appropriate for First-Year
+
+1	
+Mathematics	Foundations of Higher Mathematics	211	01	7454	Fall 2025	
+Richeson, David (Primary)
+Tuesday,Thursday
+S
+M
+T
+W
+T
+F
+S
+09:00 AM - 10:15 AM Type: Class Building: Tome Scientific Building Room: 232 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	ENST Foundations (ESFN)
+
+Appropriate for First-Year
+
+Writing in the Discipline
+
+1	
+Mathematics	Foundations of Higher Mathematics	211	02	7456	Fall 2025	
+Richeson, David (Primary)
+Tuesday,Thursday
+S
+M
+T
+W
+T
+F
+S
+10:30 AM - 11:45 AM Type: Class Building: Tome Scientific Building Room: 232 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	ENST Foundations (ESFN)
+
+Appropriate for First-Year
+
+Writing in the Discipline
+
+1	
+Mathematics	Probability and Statistics I	225	01	7459	Fall 2025	
+Innerst, Melissa (Primary)
+Monday,Wednesday,Friday
+S
+M
+T
+W
+T
+F
+S
+08:30 AM - 09:20 AM Type: Class Building: Tome Scientific Building Room: 231 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	ARCH Area A Elective
+
+ARCH Area B Elective
+
+ENST Foundations (ESFN)
+
+1	
+Mathematics	Probability and Statistics I	225	02	7462	Fall 2025	
+Innerst, Melissa (Primary)
+Monday,Wednesday,Friday
+S
+M
+T
+W
+T
+F
+S
+09:30 AM - 10:20 AM Type: Class Building: Tome Scientific Building Room: 231 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	ARCH Area A Elective
+
+ARCH Area B Elective
+
+ENST Foundations (ESFN)
+
+1	
+Mathematics	Linear Algebra	262	01	7467	Fall 2025	
+Friedlander, Holley (Primary)
+Monday,Thursday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 02:45 PM Type: Class Building: Tome Scientific Building Room: 117 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	ENST Foundations (ESFN)
+
+1	
+Mathematics	Differential Equations	271	01	7469	Fall 2025	
+Koss, Lorelei (Primary)
+Tuesday,Thursday
+S
+M
+T
+W
+T
+F
+S
+09:00 AM - 10:15 AM Type: Class Building: Tome Scientific Building Room: 117 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	ENST Foundations (ESFN)
+
+1	
+Mathematics	Probability and Statistics II	325	01	7472	Fall 2025	
+Mixell, Tony (Primary)
+Monday,Thursday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 02:45 PM Type: Class Building: Tome Scientific Building Room: 121 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	ENST Foundations (ESFN)
+
+Quantitative Econ Elective
+
+1	
+Mathematics	Operations Research	331	01	7473	Fall 2025	
+Forrester, Dick (Primary)
+Monday,Wednesday,Friday
+S
+M
+T
+W
+T
+F
+S
+12:30 PM - 01:20 PM Type: Class Building: Tome Scientific Building Room: 121 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	ENST Foundations (ESFN)
+
+Quantitative Econ Elective
+
+1	
+Mathematics	Real Analysis	361	01	7476	Fall 2025	
+Koss, Lorelei (Primary)
+Tuesday,Thursday
+S
+M
+T
+W
+T
+F
+S
+10:30 AM - 11:45 AM Type: Class Building: Tome Scientific Building Room: 117 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Quantitative Econ Elective
+
+1	
+Law & Policy	Constitutional Law	222	01	7829	Fall 2025	
+Saxton, Stephanie (Primary)
+Monday,Thursday
+S
+M
+T
+W
+T
+F
+S
+03:00 PM - 04:15 PM Type: Class Building: Denny Hall Room: 204 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	AMST Struct & Instit Elective
+
+LAWP Law Elective
+
+1	
+Law & Policy	Law and Society	290	01	7414	Fall 2025	
+Ozkan, Yalcin (Primary)
+Monday,Wednesday,Friday
+S
+M
+T
+W
+T
+F
+S
+10:30 AM - 11:20 AM Type: Class Building: Denny Hall Room: 204 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	AMST Struct & Instit Elective
+
+Social Sciences
+
+Appropriate for First-Year
+
+LAWP Law Elective
+Law & Policy	Foucault	290	02	7416	Fall 2025	
+Schubert, Dan (Primary)
+Monday,Thursday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 02:45 PM Type: Class Building: Denny Hall Room: 204 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	AMST Struct & Instit Elective
+
+Social Sciences
+
+Humanities
+
+Ethics Elective
+
+LWJS Concepts Elective
+
+LAWP Law Elective
+
+LAWP Ethics Elective
+
+WGSS Hist/Theories/Represent
+
+Writing in the Discipline
+
+WGSS Sexual & Gendered Plural
+
+1	
+Law & Policy	Gender Identity & International Human Rights Law	290	03	7419	Fall 2025	
+Rebeiz, Mireille (Primary)
+Monday,Thursday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 02:45 PM Type: Class Building: Bosler Hall Room: 208 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Social Sciences
+
+Global Diversity
+
+LWJS Institutions Elective
+
+LAWP Law Elective
+
+Sustainability Connections
+
+WGSS Intersect/Instit/Power
+
+WGSS Transntl/Global Perspect
+
+1	
+Law & Policy	Law and Punishment	290	04	7819	Fall 2025	
+Saxton, Stephanie (Primary)
+Monday,Thursday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 02:45 PM Type: Class Building: Denny Hall Room: 212 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Social Sciences
+
+LWJS Institutions Elective
+
+LWJS Practices Elective
+
+LAWP Law Elective
+
+1	
+Law & Policy	Comparative Law	290	05	7856	Fall 2025	
+Chwalisz, Natalie (Primary)
+Monday,Thursday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 02:45 PM Type: Class Building: Denny Hall Room: 311 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Social Sciences
+
+Appropriate for First-Year
+
+1	
+Law & Policy	Constitutions in Comparative Contexts	400	01	7420	Fall 2025	
+Diamant, Neil (Primary)
+Wednesday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 04:30 PM Type: Class Building: Denny Hall Room: 303 Start Date: 09/01/2025 End Date: 12/20/2025
+Class		1	
+Latin	First-Year Latin	101	01	7407	Fall 2025	
+Roman, Ashley (Primary)
+Monday,Wednesday,Friday
+S
+M
+T
+W
+T
+F
+S
+09:30 AM - 10:20 AM Type: Class Building: East College Room: 314 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Appropriate for First-Year
+
+1	
+Latin	Introduction to Roman Prose	201	01	7409	Fall 2025	
+Francese, Christopher (Primary)
+Monday,Wednesday,Friday
+S
+M
+T
+W
+T
+F
+S
+10:30 AM - 11:20 AM Type: Class Building: East College Room: 314 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Appropriate for First-Year
+
+1	
+Latin	Roman Historians	233	01	7411	Fall 2025	
+Farrington, Scott (Primary)
+Tuesday,Thursday
+S
+M
+T
+W
+T
+F
+S
+10:30 AM - 11:45 AM Type: Class Building: Althouse Hall Room: 07 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Humanities
+
+1	
+Latin	Lyric and Elegy	343	01	7412	Fall 2025	
+Farrington, Scott (Primary)
+Tuesday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 02:45 PM Type: Class Building: East College Room: 108 Start Date: 09/01/2025 End Date: 12/20/2025
+Thursday
+S
+M
+T
+W
+T
+F
+S
+03:00 PM - 04:15 PM Type: Class Building: East College Room: 108 Start Date: 09/01/2025 End Date: 12/20/2025
+Class		1	
+Lat Am/Latinx/Caribbean Stdies	Latinx Studies	123	01	7380	Fall 2025	
+Perez-Zetune, Elena (Primary)
+Monday,Wednesday,Friday
+S
+M
+T
+W
+T
+F
+S
+09:30 AM - 10:20 AM Type: Class Building: Denny Hall Room: 212 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	AMST Struct & Instit Elective
+
+Social Sciences
+
+Appropriate for First-Year
+
+SPAN/PORT Elective
+
+US Diversity
+
+1	
+Lat Am/Latinx/Caribbean Stdies	Contemporary Brazilian Politics	200	01	7381	Fall 2025	
+Domanico Vega, Diego (Primary)
+Tuesday,Thursday
+S
+M
+T
+W
+T
+F
+S
+10:30 AM - 11:45 AM Type: Class Building: Denny Hall Room: 204 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Comparative Poli Sci Course
+
+Social Sciences
+
+FLIC Portuguese
+
+INST Latin America Course
+
+Portuguese & Brazilian Studies
+
+SPAN/PORT Advanced Topics
+
+1	
+Lat Am/Latinx/Caribbean Stdies	Spanish for the Health Professions	239	01	7382	Fall 2025	
+Sagastume, Jorge (Primary)
+Tuesday,Friday
+S
+M
+T
+W
+T
+F
+S
+03:00 PM - 04:15 PM Type: Class Building: Kaufman Hall Room: 179 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Food Studies Elective
+
+Health Studies Elective
+
+NRSC Non-Div 3 Elective
+
+Sustainability Connections
+
+Service Learning
+
+SPAN/PORT Acad & Prof Contexts
+
+US Diversity
+
+1	
+Lat Am/Latinx/Caribbean Stdies	South American Archaeology	262	01	7394	Fall 2025	
+Biwer, Matthew (Primary)
+Monday,Wednesday,Friday
+S
+M
+T
+W
+T
+F
+S
+10:30 AM - 11:20 AM Type: Class Building: Denny Hall Room: 103 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	ARCH-Arch, Anth & Environment
+
+ARCH Area B Elective
+
+Social Sciences
+
+ENST Env Stud Spec (ESSP)
+
+Appropriate for First-Year
+
+Global Diversity
+
+Portuguese & Brazilian Studies
+
+Sustainability Connections
+
+SPAN/PORT Elective
+
+1	
+Lat Am/Latinx/Caribbean Stdies	Cuír/Queer Brazil	285	01	7396	Fall 2025	
+Castellanos Gonella, Carolina (Primary)
+Monday,Thursday
+S
+M
+T
+W
+T
+F
+S
+03:00 PM - 04:15 PM Type: Class Building: Kaufman Hall Room: 179 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	SPAN/PORT Advanced Topics
+
+Taught in English
+
+WGSS Transntl/Global Perspect
+
+SXST QLGBT Perspectives
+
+WGSS Sexual & Gendered Plural
+
+1	
+Lat Am/Latinx/Caribbean Stdies	Culture War Dramas: Identity Politics, Crossdressing, and Transgression in Early Modernity	300	01	7776	Fall 2025	
+Sosa, Amaury Leopoldo (Primary)
+Tuesday,Thursday
+S
+M
+T
+W
+T
+F
+S
+10:30 AM - 11:45 AM Type: Class Building: Bosler Hall Room: 314 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	English Elective
+
+SPAN/PORT Advanced Topics
+
+SXST QLGBT Perspectives
+
+WGSS Intersect/Instit/Power
+
+WGSS Sexual & Gendered Plural
+
+1	
+Lat Am/Latinx/Caribbean Stdies	Senior Research Seminar	390	01	7397	Fall 2025	
+Copeland, Eva (Primary)
+Wednesday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 04:30 PM Type: Class Building: Bosler Hall Room: 222 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	SPAN/PORT Advanced Topics
+
+1	
+Judaic Studies	Kabbalah: Healing the Soul, Repairing the Cosmos	224	01	7568	Fall 2025	
+Kann, Nitsa (Primary)
+Tuesday,Thursday
+S
+M
+T
+W
+T
+F
+S
+09:00 AM - 10:15 AM Type: Class Building: East College Room: 314 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Humanities
+
+Global Diversity
+
+1	
+Judaic Studies	German Music and Politics	316	01	7571	Fall 2025	
+Wlodarski, Amy (Primary)
+Tuesday,Friday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 02:45 PM Type: Class Building: Weiss Center for the Arts Room: 212 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Arts
+
+Religion - Western Traditions
+
+Writing in the Discipline
+
+1	
+Judaic Studies	The Holocaust	316	02	7572	Fall 2025	
+Qualls, Karl (Primary)
+Tuesday,Friday
+S
+M
+T
+W
+T
+F
+S
+03:00 PM - 04:15 PM Type: Class Building: Denny Hall Room: 204 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Social Sciences
+
+HIST European History Course
+
+Post-1800 History Course
+
+Religion - Western Traditions
+
+Taught in English
+
+Writing in the Discipline
+
+1	
+Japanese	Elementary Japanese	101	01	7573	Fall 2025	
+Meguro, Akiko (Primary)
+STAFF, JPNS
+Monday,Tuesday,Wednesday,Thursday,Friday
+S
+M
+T
+W
+T
+F
+S
+09:30 AM - 10:20 AM Type: Class Building: Stern Center for Global Educ Room: 7 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Appropriate for First-Year
+
+1	
+Japanese	Elementary Japanese	101	02	7574	Fall 2025	
+Meguro, Akiko (Primary)
+STAFF, JPNS
+Monday,Tuesday,Wednesday,Thursday,Friday
+S
+M
+T
+W
+T
+F
+S
+10:30 AM - 11:20 AM Type: Class Building: Stern Center for Global Educ Room: 7 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Appropriate for First-Year
+
+1	
+Japanese	Intermediate Japanese	201	01	7575	Fall 2025	
+STAFF, JPNS
+Bates, Alex (Primary)
+Monday,Tuesday,Wednesday,Thursday,Friday
+S
+M
+T
+W
+T
+F
+S
+09:30 AM - 10:20 AM Type: Class Building: East College Room: 112 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Appropriate for First-Year
+
+1	
+Japanese	Intermediate Japanese	201	02	7577	Fall 2025	
+STAFF, JPNS
+Bates, Alex (Primary)
+Monday,Tuesday,Wednesday,Thursday,Friday
+S
+M
+T
+W
+T
+F
+S
+10:30 AM - 11:20 AM Type: Class Building: East College Room: 112 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Appropriate for First-Year
+
+1	
+Japanese	Advanced Japanese	231	01	7579	Fall 2025	
+Meguro, Akiko (Primary)
+Monday,Wednesday,Friday
+S
+M
+T
+W
+T
+F
+S
+12:30 PM - 01:20 PM Type: Class Building: Stern Center for Global Educ Room: 103 Start Date: 09/01/2025 End Date: 12/20/2025
+Class		1	
+Japanese	Literature and Translation	360	01	7828	Fall 2025	
+Bates, Alex (Primary)
+Monday,Thursday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 02:45 PM Type: Class Building: Stern Center for Global Educ Room: 7 Start Date: 09/01/2025 End Date: 12/20/2025
+Class		1	
+Italian	Elementary Italian	101	01	7527	Fall 2025	
+Samarini, Francesco (Primary)
+Monday,Tuesday,Wednesday,Thursday,Friday
+S
+M
+T
+W
+T
+F
+S
+09:30 AM - 10:20 AM Type: Class Building: Bosler Hall Room: 309 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Appropriate for First-Year
+
+1	
+Italian	Elementary Italian	101	02	7530	Fall 2025	
+Samarini, Francesco (Primary)
+Monday,Tuesday,Wednesday,Thursday,Friday
+S
+M
+T
+W
+T
+F
+S
+08:30 AM - 09:20 AM Type: Class Building: Bosler Hall Room: 309 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Appropriate for First-Year
+
+1	
+Italian	Elementary Italian	101	03	7531	Fall 2025	
+Galli, Sara (Primary)
+Monday,Tuesday,Wednesday,Thursday,Friday
+S
+M
+T
+W
+T
+F
+S
+10:30 AM - 11:20 AM Type: Class Building: Bosler Hall Room: 321 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Appropriate for First-Year
+
+1	
+Italian	Elementary Italian	101	04	7533	Fall 2025	
+Lanzilotta, Luca (Primary)
+Monday,Tuesday,Wednesday,Thursday,Friday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 02:20 PM Type: Class Building: Bosler Hall Room: 319 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Appropriate for First-Year
+
+1	
+Italian	Elementary Italian	102	01	7537	Fall 2025	
+Galli, Sara (Primary)
+Monday,Tuesday,Wednesday,Thursday,Friday
+S
+M
+T
+W
+T
+F
+S
+09:30 AM - 10:20 AM Type: Class Building: Bosler Hall Room: 321 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Appropriate for First-Year
+
+1	
+Italian	Intermediate Italian	201	01	7538	Fall 2025	
+Lanzilotta, Luca (Primary)
+Monday,Tuesday,Wednesday,Thursday,Friday
+S
+M
+T
+W
+T
+F
+S
+10:30 AM - 11:20 AM Type: Class Building: Bosler Hall Room: 319 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Food Studies Elective
+
+Appropriate for First-Year
+
+Sustainability Connections
+
+1	
+Italian	Intermediate Italian	201	02	7539	Fall 2025	
+Lanzilotta, Luca (Primary)
+Monday,Tuesday,Wednesday,Thursday,Friday
+S
+M
+T
+W
+T
+F
+S
+09:30 AM - 10:20 AM Type: Class Building: Bosler Hall Room: 319 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Food Studies Elective
+
+Appropriate for First-Year
+
+Sustainability Connections
+
+1	
+Italian	Intermediate Italian	201	03	7765	Fall 2025	
+Galli, Sara (Primary)
+Monday,Tuesday,Wednesday,Thursday,Friday
+S
+M
+T
+W
+T
+F
+S
+08:30 AM - 09:20 AM Type: Class Building: Bosler Hall Room: 313 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Food Studies Elective
+
+Appropriate for First-Year
+
+Sustainability Connections
+
+1	
+Italian	Intermediate Italian	201	04	7543	Fall 2025	
+Galli, Sara (Primary)
+Monday,Tuesday,Wednesday,Thursday,Friday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 02:20 PM Type: Class Building: Bosler Hall Room: 318 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Food Studies Elective
+
+Appropriate for First-Year
+
+Sustainability Connections
+
+1	
+Italian	Reading and Performing Italian Texts	232	01	7545	Fall 2025	
+Samarini, Francesco (Primary)
+Tuesday,Thursday
+S
+M
+T
+W
+T
+F
+S
+10:30 AM - 11:45 AM Type: Class Building: Bosler Hall Room: 307 Start Date: 09/01/2025 End Date: 12/20/2025
+Wednesday
+S
+M
+T
+W
+T
+F
+S
+10:30 AM - 11:20 AM Type: Class Building: Bosler Hall Room: 307 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Humanities
+
+1	
+Italian	The Discourse of Love	341	01	7551	Fall 2025	
+McMenamin, James (Primary)
+Monday,Thursday
+S
+M
+T
+W
+T
+F
+S
+03:00 PM - 04:15 PM Type: Class Building: Althouse Hall Room: 201 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	MEMS Elective
+
+1	
+Intl Business & Management	Fundamentals of Business	100	01	7281	Fall 2025	
+Bai, Qing (Primary)
+Monday,Wednesday,Friday
+S
+M
+T
+W
+T
+F
+S
+09:30 AM - 10:20 AM Type: Class Building: Althouse Hall Room: 08 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Appropriate for First-Year
+
+LAWP Policy Elective
+
+Sustainability Connections
+
+1	
+Intl Business & Management	Fundamentals of Business	100	02	7283	Fall 2025	
+Riccio, Steve (Primary)
+Tuesday,Thursday
+S
+M
+T
+W
+T
+F
+S
+09:00 AM - 10:15 AM Type: Class Building: Althouse Hall Room: 207 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Appropriate for First-Year
+
+LAWP Policy Elective
+
+Sustainability Connections
+
+1	
+Intl Business & Management	Fundamentals of Business	100	03	7285	Fall 2025	
+Wang, Xiaolu (Primary)
+Tuesday,Friday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 02:45 PM Type: Class Building: Althouse Hall Room: 207 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Appropriate for First-Year
+
+LAWP Policy Elective
+
+Sustainability Connections
+
+1	
+Intl Business & Management	Fundamentals of Accounting	110	01	7288	Fall 2025	
+Zhu, Mengnan (Primary)
+Tuesday,Thursday
+S
+M
+T
+W
+T
+F
+S
+09:00 AM - 10:15 AM Type: Class Building: Althouse Hall Room: 08 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Appropriate for First-Year
+
+Quantitative Reasoning
+
+1	
+Intl Business & Management	Fundamentals of Accounting	110	02	7295	Fall 2025	
+Zhu, Mengnan (Primary)
+Tuesday,Thursday
+S
+M
+T
+W
+T
+F
+S
+10:30 AM - 11:45 AM Type: Class Building: Althouse Hall Room: 08 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Appropriate for First-Year
+
+Quantitative Reasoning
+
+1	
+Intl Business & Management	Financial Literacy: An Introduction to Quantitative Reasoning for Personal Finance	190	01	7879	Fall 2025	
+Johnston, Chuck (Primary)
+Monday,Thursday
+S
+M
+T
+W
+T
+F
+S
+03:00 PM - 04:15 PM Type: Class Building: Althouse Hall Room: 08 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Quantitative Reasoning
+
+1	
+Intl Business & Management	Managerial Decision Making	220	01	7236	Fall 2025	
+View Linked
+Erfle, Steve (Primary)
+Tuesday,Thursday
+S
+M
+T
+W
+T
+F
+S
+09:00 AM - 10:15 AM Type: Class Building: Althouse Hall Room: 204 Start Date: 09/01/2025 End Date: 12/20/2025
+Class		1	
+Intl Business & Management	Managerial Decision Making	220	02	7239	Fall 2025	
+View Linked
+Erfle, Steve (Primary)
+Tuesday,Thursday
+S
+M
+T
+W
+T
+F
+S
+10:30 AM - 11:45 AM Type: Class Building: Althouse Hall Room: 204 Start Date: 09/01/2025 End Date: 12/20/2025
+Class		1	
+Intl Business & Management	Managerial Decision Making	220	03	7771	Fall 2025	
+View Linked
+Erfle, Steve (Primary)
+Monday,Thursday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 02:45 PM Type: Class Building: Althouse Hall Room: 204 Start Date: 09/01/2025 End Date: 12/20/2025
+Class		1	
+Intl Business & Management	Managerial Decision Making	220	LA	7237	Fall 2025	
+View Linked
+Erfle, Steve (Primary)
+Friday
+S
+M
+T
+W
+T
+F
+S
+09:30 AM - 10:20 AM Type: Class Building: Althouse Hall Room: 204 Start Date: 09/01/2025 End Date: 12/20/2025
+Lab		0	
+Intl Business & Management	Managerial Decision Making	220	LB	7241	Fall 2025	
+View Linked
+Erfle, Steve (Primary)
+Friday
+S
+M
+T
+W
+T
+F
+S
+10:30 AM - 11:20 AM Type: Class Building: Althouse Hall Room: 204 Start Date: 09/01/2025 End Date: 12/20/2025
+Lab		0	
+Intl Business & Management	Managerial Decision Making	220	LC	7772	Fall 2025	
+View Linked
+Erfle, Steve (Primary)
+Friday
+S
+M
+T
+W
+T
+F
+S
+11:30 AM - 12:20 PM Type: Class Building: Althouse Hall Room: 204 Start Date: 09/01/2025 End Date: 12/20/2025
+Lab		0	
+Intl Business & Management	International Organizational Behavior	230	01	7296	Fall 2025	
+Jin, Dengjian (Primary)
+Monday,Wednesday,Friday
+S
+M
+T
+W
+T
+F
+S
+10:30 AM - 11:20 AM Type: Class Building: Althouse Hall Room: 110 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	LAWP Policy Elective
+
+1	
+Intl Business & Management	International Organizational Behavior	230	02	7298	Fall 2025	
+Jin, Dengjian (Primary)
+Monday,Wednesday,Friday
+S
+M
+T
+W
+T
+F
+S
+11:30 AM - 12:20 PM Type: Class Building: Althouse Hall Room: 207 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	LAWP Policy Elective
+Intl Business & Management	Marketing in a Global Context	240	01	7302	Fall 2025	
+Wang, Xiaolu (Primary)
+Monday,Thursday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 02:45 PM Type: Class Building: Althouse Hall Room: 207 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	LAWP Policy Elective
+
+1	
+Intl Business & Management	Marketing in a Global Context	240	02	7306	Fall 2025	
+Wang, Xiaolu (Primary)
+Monday,Thursday
+S
+M
+T
+W
+T
+F
+S
+03:00 PM - 04:15 PM Type: Class Building: Althouse Hall Room: 207 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	LAWP Policy Elective
+
+1	
+Intl Business & Management	Finance	250	01	7309	Fall 2025	
+Bai, Qing (Primary)
+Monday,Wednesday,Friday
+S
+M
+T
+W
+T
+F
+S
+10:30 AM - 11:20 AM Type: Class Building: Stern Center for Global Educ Room: 11 Start Date: 09/01/2025 End Date: 12/20/2025
+Class		1	
+Intl Business & Management	Finance	250	02	7311	Fall 2025	
+Bai, Qing (Primary)
+Monday,Wednesday,Friday
+S
+M
+T
+W
+T
+F
+S
+11:30 AM - 12:20 PM Type: Class Building: Stern Center for Global Educ Room: 11 Start Date: 09/01/2025 End Date: 12/20/2025
+Class		1	
+Intl Business & Management	Global Business: Theory and Context	290	01	7313	Fall 2025	
+Watson, Forrest (Primary)
+Tuesday,Thursday
+S
+M
+T
+W
+T
+F
+S
+09:00 AM - 10:15 AM Type: Class Building: Althouse Hall Room: 109 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Burgess Institute Affiliated
+
+Sustainability Connections
+
+1	
+Intl Business & Management	Global Business: Theory and Context	290	02	7316	Fall 2025	
+Watson, Forrest (Primary)
+Tuesday,Thursday
+S
+M
+T
+W
+T
+F
+S
+10:30 AM - 11:45 AM Type: Class Building: Althouse Hall Room: 109 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Burgess Institute Affiliated
+
+Sustainability Connections
+
+1	
+Intl Business & Management	Introduction to Entrepreneurship	300	01	7851	Fall 2025	
+Pacheco, Darrell (Primary)
+Thursday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 04:30 PM Type: Class Building: Denny Hall Room: 313 Start Date: 09/01/2025 End Date: 12/20/2025
+Class		1	
+Intl Business & Management	Business Law	300	02	7862	Fall 2025	
+Grimm, Ashley (Primary)
+Tuesday
+S
+M
+T
+W
+T
+F
+S
+06:00 PM - 09:00 PM Type: Class Building: Althouse Hall Room: 109 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Social Sciences
+
+LAWP Law Elective
+
+Political Science Elective
+
+Writing in the Discipline
+
+1	
+Intl Business & Management	Profiles in Leadership	301	01	7745	Fall 2025	
+Riccio, Steve (Primary)
+Monday,Thursday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 02:45 PM Type: Class Building: Althouse Hall Room: 08 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Burgess Institute Affiliated
+
+Social Sciences
+
+1	
+Intl Business & Management	Federal Individual Income Taxes	315	01	7876	Fall 2025	
+Johnston, Chuck (Primary)
+Monday,Wednesday,Friday
+S
+M
+T
+W
+T
+F
+S
+12:30 PM - 01:20 PM Type: Class Building: Althouse Hall Room: 201 Start Date: 09/01/2025 End Date: 12/20/2025
+Class		1	
+Intl Business & Management	Consumer Behavior	342	01	7748	Fall 2025	
+Mansell, Wade (Primary)
+Tuesday,Friday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 02:45 PM Type: Class Building: Althouse Hall Room: 110 Start Date: 09/01/2025 End Date: 12/20/2025
+Class		1	
+Intl Business & Management	Investments	350	01	7747	Fall 2025	
+Zhu, Mengnan (Primary)
+Monday,Thursday
+S
+M
+T
+W
+T
+F
+S
+03:00 PM - 04:15 PM Type: Class Building: Althouse Hall Room: 109 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Quantitative Econ Elective
+
+Sustainability Connections
+
+1	
+Intl Business & Management	Seminar in International Business Policy and Strategy	400	01	7318	Fall 2025	
+Jin, Dengjian
+Sak, Peter (Primary)
+Monday,Thursday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 02:45 PM Type: Class Building: Althouse Hall Room: 206 Start Date: 09/01/2025 End Date: 12/20/2025
+Class		1	
+International Studies	International Relations	170	01	7498	Fall 2025	
+Wolff, Andy (Primary)
+Monday,Wednesday,Friday
+S
+M
+T
+W
+T
+F
+S
+09:30 AM - 10:20 AM Type: Class Building: Denny Hall Room: 304 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Social Sciences
+
+Appropriate for First-Year
+
+LAWP Policy Elective
+
+Political Science Elective
+
+Security Studies Course
+
+1	
+International Studies	International Relations	170	02	7500	Fall 2025	
+Jacobs, Rachel (Primary)
+Tuesday,Thursday
+S
+M
+T
+W
+T
+F
+S
+09:00 AM - 10:15 AM Type: Class Building: Althouse Hall Room: 201 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Social Sciences
+
+Appropriate for First-Year
+
+LAWP Policy Elective
+
+Political Science Elective
+
+Sustainability Connections
+
+Security Studies Course
+
+1	
+International Studies	International Relations	170	03	7502	Fall 2025	
+Mitchell, Kristine (Primary)
+Monday,Thursday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 02:45 PM Type: Class Building: Denny Hall Room: 203 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Social Sciences
+
+Appropriate for First-Year
+
+LAWP Policy Elective
+
+Political Science Elective
+
+Security Studies Course
+
+1	
+International Studies	Global Economy	200	01	7504	Fall 2025	
+Thioune, Fatou (Primary)
+Monday,Wednesday,Friday
+S
+M
+T
+W
+T
+F
+S
+09:30 AM - 10:20 AM Type: Class Building: Althouse Hall Room: 109 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	East Asian Social Sci Elective
+
+1	
+International Studies	International Political Economy	273	01	7854	Fall 2025	
+Chwalisz, Natalie (Primary)
+Tuesday,Thursday
+S
+M
+T
+W
+T
+F
+S
+09:00 AM - 10:15 AM Type: Class Building: Althouse Hall Room: 110 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	LAWP Policy Elective
+
+PMGT International Policy
+
+Political Science Elective
+
+1	
+International Studies	International Politics of the Middle East	277	01	7508	Fall 2025	
+Webb, Ed (Primary)
+Tuesday,Friday
+S
+M
+T
+W
+T
+F
+S
+03:00 PM - 04:15 PM Type: Class Building: Denny Hall Room: 103 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Social Sciences
+
+Global Diversity
+
+INST Middle East/N Africa Crse
+
+INST Global Security
+
+LAWP Policy Elective
+
+Middle East Social Science
+
+Sustainability Connections
+
+Security Studies Course
+
+Writing in the Discipline
+
+1	
+International Studies	American Foreign Policy	280	01	7510	Fall 2025	
+Wolff, Andy (Primary)
+Monday,Thursday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 02:45 PM Type: Class Building: Stern Center for Global Educ Room: 103 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	AMST Struct & Instit Elective
+
+LAWP Policy Elective
+
+Political Science Elective
+
+Security Studies Course
+
+1	
+International Studies	The Ukraine War & International Relations	290	01	7514	Fall 2025	
+Bova, Russell (Primary)
+Tuesday,Thursday
+S
+M
+T
+W
+T
+F
+S
+09:00 AM - 10:15 AM Type: Class Building: Denny Hall Room: 103 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Social Sciences
+
+INST Russia/USSR/Post-Soviet
+
+INST Global Security
+
+Security Studies Course
+
+1	
+International Studies	Economic Development: Theories, Policies, and Challenges	290	02	7516	Fall 2025	
+Thioune, Fatou (Primary)
+Monday,Wednesday,Friday
+S
+M
+T
+W
+T
+F
+S
+10:30 AM - 11:20 AM Type: Class Building: Althouse Hall Room: 109 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Social Sciences
+
+INST World Economy & Developmt
+
+1	
+International Studies	Environment, Conflict and Peace	290	03	7756	Fall 2025	
+Beevers, Michael (Primary)
+Tuesday,Thursday
+S
+M
+T
+W
+T
+F
+S
+10:30 AM - 11:45 AM Type: Class Building: Kaufman Hall Room: 178 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	ENST Env Stud Spec (ESSP)
+
+INST Sustain & Global Environ
+
+INST Global Security
+
+Sustainability Connections
+
+Security Studies Course
+
+1	
+International Studies	Global Security	290	04	7793	Fall 2025	
+Nation, Craig (Primary)
+Tuesday,Friday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 02:45 PM Type: Class Building: Stern Center for Global Educ Room: 103 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Social Sciences
+
+INST Global Security
+
+Sustainability Connections
+
+Security Studies Course
+
+1	
+International Studies	Constitutions in Comparative Contexts	390	01	7520	Fall 2025	
+Diamant, Neil (Primary)
+Wednesday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 04:30 PM Type: Class Building: Denny Hall Room: 303 Start Date: 09/01/2025 End Date: 12/20/2025
+Class		1	
+International Studies	Great Power War	401	01	7523	Fall 2025	
+Bova, Russell (Primary)
+Tuesday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 04:30 PM Type: Class Building: Denny Hall Room: 303 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Security Studies Capstone
+
+1	
+International Studies	Poverty Reduction Policies	401	02	7525	Fall 2025	
+Thioune, Fatou (Primary)
+Wednesday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 04:30 PM Type: Class Building: Althouse Hall Room: 07 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Security Studies Capstone
+
+1	
+Interdisciplinary	AI as a Partner	250	01	7762	Fall 2025	
+D'Annibale, James (Primary)
+Monday,Wednesday,Friday
+S
+M
+T
+W
+T
+F
+S
+11:30 AM - 12:20 PM Type: Class Building: Denny Hall Room: 317 Start Date: 09/01/2025 End Date: 12/20/2025
+Class		1	
+Interdisciplinary	Profiles in Leadership	301	01	7746	Fall 2025	
+Riccio, Steve (Primary)
+Monday,Thursday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 02:45 PM Type: Class Building: Althouse Hall Room: 08 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Burgess Institute Affiliated
+
+Social Sciences
+
+1	
+History	The Age of Faith: Medieval Europe Between Church and State	101	01	7445	Fall 2025	
+Schadler, Peter (Primary)
+Monday,Wednesday,Friday
+S
+M
+T
+W
+T
+F
+S
+09:30 AM - 10:20 AM Type: Class Building: East College Room: 411 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Burgess Institute Affiliated
+
+Social Sciences
+
+Humanities
+
+HIST European History Course
+
+Pre-1800 History Course
+
+INST European Course
+
+MEMS Elective
+
+1	
+History	Early Modern Europe to 1799	106	01	7447	Fall 2025	
+Sweeney, Regina (Primary)
+Monday,Wednesday,Friday
+S
+M
+T
+W
+T
+F
+S
+09:30 AM - 10:20 AM Type: Class Building: Denny Hall Room: 311 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Social Sciences
+
+Appropriate for First-Year
+
+HIST European History Course
+
+Pre-1800 History Course
+
+INST European Course
+
+MEMS Elective
+
+1	
+History	American History 1607 to 1877	117	01	7458	Fall 2025	
+Bilodeau, Christopher (Primary)
+Monday,Wednesday,Friday
+S
+M
+T
+W
+T
+F
+S
+08:30 AM - 09:20 AM Type: Class Building: Denny Hall Room: 203 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	AMST American History Elective
+
+Social Sciences
+
+Appropriate for First-Year
+
+HIST North American Hist Crs
+
+Pre-1800 History Course
+
+US Diversity
+
+1	
+History	American History 1877 to Present	118	01	7461	Fall 2025	
+Hawk, Emily (Primary)
+Monday,Thursday
+S
+M
+T
+W
+T
+F
+S
+03:00 PM - 04:15 PM Type: Class Building: Denny Hall Room: 311 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	AMST American History Elective
+
+Social Sciences
+
+Appropriate for First-Year
+
+HIST North American Hist Crs
+
+Post-1800 History Course
+
+US Diversity
+
+1	
+History	History of East Asia from Ancient Times to the Present	120	01	7464	Fall 2025	
+Young, Evan (Primary)
+Tuesday,Friday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 02:45 PM Type: Class Building: Denny Hall Room: 311 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Social Sciences
+
+East Asian Social Sci Elective
+
+Appropriate for First-Year
+
+Global Diversity
+
+HIST Asian History Course
+
+Pre-1800 History Course
+
+INST Asia Course
+
+1	
+History	History of Environment	151	01	7466	Fall 2025	
+Pawley, Emily (Primary)
+Monday,Wednesday,Friday
+S
+M
+T
+W
+T
+F
+S
+10:30 AM - 11:20 AM Type: Class Building: Denny Hall Room: 313 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	AMST American History Elective
+
+Burgess Institute Affiliated
+
+Social Sciences
+
+ENST Env Stud Spec (ESSP)
+
+Food Studies Elective
+
+Appropriate for First-Year
+
+HIST Global Comp Hist Crs
+
+INST Sustain & Global Environ
+
+Sustainability Investigations
+
+1	
+History	African Civilizations to 1850	170	01	7468	Fall 2025	
+Ball, Jeremy (Primary)
+Monday,Wednesday,Friday
+S
+M
+T
+W
+T
+F
+S
+09:30 AM - 10:20 AM Type: Class Building: Denny Hall Room: 313 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	AFST - Africa Course
+
+Social Sciences
+
+Appropriate for First-Year
+
+Global Diversity
+
+HIST African History Course
+
+Post-1800 History Course
+
+MEMS Elective
+
+Sustainability Connections
+
+1	
+History	Introduction to Historical Methodology	204	01	7471	Fall 2025	
+Bilodeau, Christopher (Primary)
+Monday,Thursday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 02:45 PM Type: Class Building: Waidner-Boyd Lee Spahr Library Room: ARCHCLS Start Date: 09/01/2025 End Date: 12/20/2025
+Class	AMST American History Elective
+
+Social Sciences
+
+Writing in the Discipline
+
+1	
+History	Archives and Practicing Public History	211	01	7475	Fall 2025	
+Varner, Lindsay (Primary)
+Tuesday,Thursday
+S
+M
+T
+W
+T
+F
+S
+10:30 AM - 11:45 AM Type: Class Building: Denny Hall Room: 211 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Social Sciences
+
+Appropriate for First-Year
+
+HIST North American Hist Crs
+
+Post-1800 History Course
+
+1	
+History	US Constitutional History	211	02	7477	Fall 2025	
+Pinsker, Matthew (Primary)
+Monday,Thursday
+S
+M
+T
+W
+T
+F
+S
+03:00 PM - 04:15 PM Type: Class Building: Denny Hall Room: 211 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	AMST American History Elective
+
+Social Sciences
+
+Appropriate for First-Year
+
+HIST North American Hist Crs
+
+Post-1800 History Course
+
+1	
+History	Roman History	213	01	7480	Fall 2025	
+Farrington, Scott (Primary)
+Monday,Thursday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 02:45 PM Type: Class Building: Althouse Hall Room: 07 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	ARCH Area A Elective
+
+ARCH -Mediterranean Arch Elect
+
+Social Sciences
+
+Globally Integrated
+
+HIST European History Course
+
+Pre-1800 History Course
+
+MEMS Elective
+
+Writing in the Discipline
+
+1	
+History	Autocracy, Uprisings, and Daily Life in Medieval Ukraine, Russia, and its Empire	253	01	7483	Fall 2025	
+Qualls, Karl (Primary)
+Monday,Wednesday,Friday
+S
+M
+T
+W
+T
+F
+S
+12:30 PM - 01:20 PM Type: Class Building: Denny Hall Room: 203 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Social Sciences
+
+Appropriate for First-Year
+
+HIST European History Course
+
+Pre-1800 History Course
+
+INST Russia/USSR/Post-Soviet
+
+MEMS Elective
+
+Taught in English
+
+1	
+History	African Americans Since Slavery	273	01	7486	Fall 2025	
+Hawk, Emily (Primary)
+Monday,Thursday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 02:45 PM Type: Class Building: Denny Hall Room: 211 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Africana Studies Elective
+
+AMST American History Elective
+
+Social Sciences
+
+HIST North American Hist Crs
+
+Post-1800 History Course
+
+US Diversity
+
+1	
+History	The Rise and Fall of Apartheid	274	01	7488	Fall 2025	
+Ball, Jeremy (Primary)
+Tuesday,Thursday
+S
+M
+T
+W
+T
+F
+S
+09:00 AM - 10:15 AM Type: Class Building: Denny Hall Room: 313 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Africana Studies Elective
+
+Social Sciences
+
+Global Diversity
+
+HIST African History Course
+
+Post-1800 History Course
+
+INST Africa Course
+
+1	
+History	European Empires	277	01	7491	Fall 2025	
+Sweeney, Regina (Primary)
+Monday,Wednesday,Friday
+S
+M
+T
+W
+T
+F
+S
+11:30 AM - 12:20 PM Type: Class Building: Denny Hall Room: 311 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Social Sciences
+
+Appropriate for First-Year
+
+HIST European History Course
+
+INST Global Security
+
+INST European Course
+
+Security Studies Course
+
+1	
+History	The Holocaust	376	01	7494	Fall 2025	
+Qualls, Karl (Primary)
+Tuesday,Friday
+S
+M
+T
+W
+T
+F
+S
+03:00 PM - 04:15 PM Type: Class Building: Denny Hall Room: 204 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Social Sciences
+
+HIST European History Course
+
+Post-1800 History Course
+
+Judaic Studies Elective
+
+Religion - Western Traditions
+
+Taught in English
+
+Writing in the Discipline
+
+1	
+History	Jacksonian Democracy and the Imperial Presidency	404	01	7496	Fall 2025	
+Bilodeau, Christopher (Primary)
+Wednesday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 04:30 PM Type: Class Building: Denny Hall Room: 204 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	AMST American History Elective
+
+Social Sciences
+
+1	
+Hebrew	Elementary Modern Hebrew	101	01	7425	Fall 2025	
+Kann, Nitsa (Primary)
+Monday,Tuesday,Wednesday,Thursday,Friday
+S
+M
+T
+W
+T
+F
+S
+10:30 AM - 11:20 AM Type: Class Building: East College Room: 108 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Appropriate for First-Year
+
+1	
+Hebrew	Intermediate Modern Hebrew	201	01	7428	Fall 2025	
+Kann, Nitsa (Primary)
+Monday,Wednesday,Friday
+S
+M
+T
+W
+T
+F
+S
+11:30 AM - 12:20 PM Type: Class Building: East College Room: 108 Start Date: 09/01/2025 End Date: 12/20/2025
+Class		1	
+Health Studies	Senior Seminar in Health Studies	400	01	7432	Fall 2025	
+Sarcone, David (Primary)
+Tuesday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 04:30 PM Type: Class Building: Tome Scientific Building Room: 227 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Service Learning
+
+1	
+Greek	Beginning Attic Greek	101	01	7421	Fall 2025	
+Farrington, Scott (Primary)
+Monday,Tuesday,Thursday,Friday
+S
+M
+T
+W
+T
+F
+S
+09:30 AM - 10:20 AM Type: Class Building: East College Room: 410 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Appropriate for First-Year
+
+1

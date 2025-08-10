@@ -1,0 +1,1123 @@
+Chinese	Advanced Chinese	231	01	7585	Fall 2025	
+Peacock, Christopher (Primary)
+Long, Qingtao
+Monday,Wednesday,Friday
+S
+M
+T
+W
+T
+F
+S
+11:30 AM - 12:20 PM Type: Class Building: Stern Center for Global Educ Room: 103 Start Date: 09/01/2025 End Date: 12/20/2025
+Class		1	
+Chinese	Topics in Advanced Chinese	360	01	7827	Fall 2025	
+Peacock, Christopher (Primary)
+Long, Qingtao
+Monday,Wednesday,Friday
+S
+M
+T
+W
+T
+F
+S
+12:30 PM - 01:20 PM Type: Class Building: Waidner-Boyd Lee Spahr Library Room: E. ASIAN Start Date: 09/01/2025 End Date: 12/20/2025
+Class		1	
+Chemistry	General Chemistry I with Lab	131	01	7245	Fall 2025	
+View Linked
+St. Angelo, Sarah (Primary)
+Monday,Wednesday,Friday
+S
+M
+T
+W
+T
+F
+S
+09:30 AM - 10:20 AM Type: Class Building: Stuart Hall - Rector Complex Room: 1104 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Lab Sciences
+
+ENST Foundations (ESFN)
+
+Appropriate for First-Year
+
+1	
+Chemistry	General Chemistry I with Lab	131	02	7246	Fall 2025	
+View Linked
+O'Neill, Christine (Primary)
+Tuesday,Thursday
+S
+M
+T
+W
+T
+F
+S
+09:00 AM - 10:15 AM Type: Class Building: Stuart Hall - Rector Complex Room: 1104 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Lab Sciences
+
+ENST Foundations (ESFN)
+
+Appropriate for First-Year
+
+1	
+Chemistry	General Chemistry I with Lab	131	03	7244	Fall 2025	
+View Linked
+Wladkowski, Brian (Primary)
+Tuesday,Thursday
+S
+M
+T
+W
+T
+F
+S
+10:30 AM - 11:45 AM Type: Class Building: Stuart Hall - Rector Complex Room: 1104 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Lab Sciences
+
+ENST Foundations (ESFN)
+
+Appropriate for First-Year
+
+1	
+Chemistry	General Chemistry I with Lab	131	L1	7247	Fall 2025	
+View Linked
+O'Neill, Christine (Primary)
+Monday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 04:30 PM Type: Class Building: Stuart Hall - Rector Complex Room: 1113 Start Date: 09/01/2025 End Date: 12/20/2025
+Monday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 04:30 PM Type: Class Building: Stuart Hall - Rector Complex Room: 1121 Start Date: 09/01/2025 End Date: 12/20/2025
+Lab	Lab Sciences
+
+ENST Foundations (ESFN)
+
+Appropriate for First-Year
+
+0	
+Chemistry	General Chemistry I with Lab	131	L2	7248	Fall 2025	
+View Linked
+Barker, Katie (Primary)
+Tuesday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 04:30 PM Type: Class Building: Stuart Hall - Rector Complex Room: 1113 Start Date: 09/01/2025 End Date: 12/20/2025
+Tuesday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 04:30 PM Type: Class Building: Stuart Hall - Rector Complex Room: 1121 Start Date: 09/01/2025 End Date: 12/20/2025
+Lab	Lab Sciences
+
+ENST Foundations (ESFN)
+
+Appropriate for First-Year
+
+0	
+Chemistry	General Chemistry I with Lab	131	L3	7249	Fall 2025	
+View Linked
+O'Neill, Christine (Primary)
+Wednesday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 04:30 PM Type: Class Building: Stuart Hall - Rector Complex Room: 1113 Start Date: 09/01/2025 End Date: 12/20/2025
+Wednesday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 04:30 PM Type: Class Building: Stuart Hall - Rector Complex Room: 1121 Start Date: 09/01/2025 End Date: 12/20/2025
+Lab	Lab Sciences
+
+ENST Foundations (ESFN)
+
+Appropriate for First-Year
+
+0	
+Chemistry	General Chemistry I with Lab	131	L4	7250	Fall 2025	
+View Linked
+Barker, Katie (Primary)
+Thursday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 04:30 PM Type: Class Building: Stuart Hall - Rector Complex Room: 1113 Start Date: 09/01/2025 End Date: 12/20/2025
+Thursday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 04:30 PM Type: Class Building: Stuart Hall - Rector Complex Room: 1121 Start Date: 09/01/2025 End Date: 12/20/2025
+Lab	Lab Sciences
+
+ENST Foundations (ESFN)
+
+Appropriate for First-Year
+
+0	
+Chemistry	General Chemistry I with Lab	131	L5	7251	Fall 2025	
+View Linked
+Wladkowski, Brian (Primary)
+Friday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 04:30 PM Type: Class Building: Stuart Hall - Rector Complex Room: 1113 Start Date: 09/01/2025 End Date: 12/20/2025
+Friday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 04:30 PM Type: Class Building: Stuart Hall - Rector Complex Room: 1121 Start Date: 09/01/2025 End Date: 12/20/2025
+Lab	Lab Sciences
+
+ENST Foundations (ESFN)
+
+Appropriate for First-Year
+
+0	
+Chemistry	Accelerated General Chemistry with Lab	141	01	7265	Fall 2025	
+Wilkins, Olivia (Primary)
+Monday,Wednesday,Friday
+S
+M
+T
+W
+T
+F
+S
+09:30 AM - 10:20 AM Type: Class Building: Tome Scientific Building Room: 122 Start Date: 09/01/2025 End Date: 12/20/2025
+Wednesday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 04:30 PM Type: Class Building: Stuart Hall - Rector Complex Room: 2112 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Lab Sciences
+
+ENST Foundations (ESFN)
+
+Appropriate for First-Year
+
+Quantitative Reasoning
+
+1	
+Chemistry	Organic Chemistry I with Lab	241	01	7252	Fall 2025	
+View Linked
+Donavalli, Krishna (Primary)
+Monday,Wednesday,Friday
+S
+M
+T
+W
+T
+F
+S
+08:30 AM - 09:20 AM Type: Class Building: Stuart Hall - Rector Complex Room: 1104 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Lab Sciences
+
+ENST Foundations (ESFN)
+
+NRSC Course
+
+1	
+Chemistry	Organic Chemistry I with Lab	241	02	7253	Fall 2025	
+View Linked
+Leal, Miguel (Primary)
+Monday,Wednesday,Friday
+S
+M
+T
+W
+T
+F
+S
+10:30 AM - 11:20 AM Type: Class Building: Stuart Hall - Rector Complex Room: 1104 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Lab Sciences
+
+ENST Foundations (ESFN)
+
+NRSC Course
+
+1	
+Chemistry	Organic Chemistry I with Lab	241	L1	7254	Fall 2025	
+View Linked
+Leal, Miguel (Primary)
+Monday
+S
+M
+T
+W
+T
+F
+S
+12:30 PM - 04:30 PM Type: Class Building: Stuart Hall - Rector Complex Room: 1118 Start Date: 09/01/2025 End Date: 12/20/2025
+Monday
+S
+M
+T
+W
+T
+F
+S
+12:30 PM - 01:00 PM Type: Class Building: Tome Scientific Building Room: 122 Start Date: 09/01/2025 End Date: 12/20/2025
+Lab	Lab Sciences
+
+ENST Foundations (ESFN)
+
+NRSC Course
+
+0	
+Chemistry	Organic Chemistry I with Lab	241	L2	7255	Fall 2025	
+View Linked
+Donavalli, Krishna (Primary)
+Tuesday
+S
+M
+T
+W
+T
+F
+S
+01:15 PM - 05:15 PM Type: Class Building: Stuart Hall - Rector Complex Room: 1118 Start Date: 09/01/2025 End Date: 12/20/2025
+Tuesday
+S
+M
+T
+W
+T
+F
+S
+01:15 PM - 01:45 PM Type: Class Building: Tome Scientific Building Room: 122 Start Date: 09/01/2025 End Date: 12/20/2025
+Lab	Lab Sciences
+
+ENST Foundations (ESFN)
+
+NRSC Course
+
+0	
+Chemistry	Organic Chemistry I with Lab	241	L3	7258	Fall 2025	
+View Linked
+Donavalli, Krishna (Primary)
+Wednesday
+S
+M
+T
+W
+T
+F
+S
+12:30 PM - 04:30 PM Type: Class Building: Stuart Hall - Rector Complex Room: 1118 Start Date: 09/01/2025 End Date: 12/20/2025
+Wednesday
+S
+M
+T
+W
+T
+F
+S
+12:30 PM - 01:00 PM Type: Class Building: Tome Scientific Building Room: 122 Start Date: 09/01/2025 End Date: 12/20/2025
+Lab	Lab Sciences
+
+ENST Foundations (ESFN)
+
+NRSC Course
+
+0	
+Chemistry	Organic Chemistry I with Lab	241	L4	7261	Fall 2025	
+View Linked
+Metro, Jarek (Primary)
+Thursday
+S
+M
+T
+W
+T
+F
+S
+01:15 PM - 05:15 PM Type: Class Building: Stuart Hall - Rector Complex Room: 1118 Start Date: 09/01/2025 End Date: 12/20/2025
+Thursday
+S
+M
+T
+W
+T
+F
+S
+01:15 PM - 01:45 PM Type: Class Building: Tome Scientific Building Room: 122 Start Date: 09/01/2025 End Date: 12/20/2025
+Lab	Lab Sciences
+
+ENST Foundations (ESFN)
+
+NRSC Course
+
+0	
+Chemistry	Principles of Biochemistry	331	01	7267	Fall 2025	
+Metro, Jarek (Primary)
+Monday,Wednesday,Friday
+S
+M
+T
+W
+T
+F
+S
+11:30 AM - 12:20 PM Type: Class Building: Stuart Hall - Rector Complex Room: 1104 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	NRSC Course
+
+1	
+Chemistry	Quantum Chemistry and Spectroscopy	341	01	7269	Fall 2025	
+Wilkins, Olivia (Primary)
+Monday,Wednesday,Friday
+S
+M
+T
+W
+T
+F
+S
+11:30 AM - 12:20 PM Type: Class Building: Tome Scientific Building Room: 122 Start Date: 09/01/2025 End Date: 12/20/2025
+Class		1	
+Chemistry	Concepts of Inorganic Chemistry with Lab	347	01	7271	Fall 2025	
+St. Angelo, Sarah (Primary)
+Tuesday,Thursday
+S
+M
+T
+W
+T
+F
+S
+10:30 AM - 11:45 AM Type: Class Building: Tome Scientific Building Room: 122 Start Date: 09/01/2025 End Date: 12/20/2025
+Wednesday
+S
+M
+T
+W
+T
+F
+S
+12:30 PM - 04:30 PM Type: Class Building: Stuart Hall - Rector Complex Room: 2117 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	ENST Foundations (ESFN)
+
+Writing in the Discipline
+
+1	
+Chemistry	Organometallic Chemistry	490	01	7276	Fall 2025	
+Leal, Miguel (Primary)
+Tuesday,Thursday
+S
+M
+T
+W
+T
+F
+S
+09:00 AM - 10:15 AM Type: Class Building: Stuart Hall - Rector Complex Room: 1113 Start Date: 09/01/2025 End Date: 12/20/2025
+Class		1	
+Chemistry	Protein Engineering	490	02	7279	Fall 2025	
+Connor, Rebecca (Primary)
+Tuesday,Thursday
+S
+M
+T
+W
+T
+F
+S
+10:30 AM - 11:45 AM Type: Class Building: Stuart Hall - Rector Complex Room: 1113 Start Date: 09/01/2025 End Date: 12/20/2025
+Class		1	
+Biology	Introduction to Organisms, Populations, and Ecosystems Topics	131	01	7474	Fall 2025	
+Wingert, Gene (Primary)
+Monday,Wednesday,Friday
+S
+M
+T
+W
+T
+F
+S
+08:30 AM - 09:20 AM Type: Class Building: James Hall - Rector Complex Room: 2228 Start Date: 09/01/2025 End Date: 12/20/2025
+Monday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 04:30 PM Type: Class Building: James Hall - Rector Complex Room: 2228 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Lab Sciences
+
+Appropriate for First-Year
+
+1	
+Biology	Introduction to Organisms, Populations, and Ecosystems: Topics in Ocean Ecology	131	03	7482	Fall 2025	
+Potthoff, Mike (Primary)
+Tuesday,Thursday
+S
+M
+T
+W
+T
+F
+S
+09:00 AM - 10:15 AM Type: Class Building: James Hall - Rector Complex Room: 1206 Start Date: 09/01/2025 End Date: 12/20/2025
+Thursday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 04:30 PM Type: Class Building: James Hall - Rector Complex Room: 2228 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Lab Sciences
+
+ENST Foundations (ESFN)
+
+Appropriate for First-Year
+
+Sustainability Investigations
+
+1	
+Biology	Introduction to Molecules, Genes, and Cells: Developmental Biology	132	01	7485	Fall 2025	
+Irons, Zoe (Primary)
+Monday,Wednesday,Friday
+S
+M
+T
+W
+T
+F
+S
+10:30 AM - 11:20 AM Type: Class Building: Tome Scientific Building Room: 115 Start Date: 09/01/2025 End Date: 12/20/2025
+Monday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 04:30 PM Type: Class Building: James Hall - Rector Complex Room: 2218 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Lab Sciences
+
+Appropriate for First-Year
+
+1	
+Biology	Introduction to Molecules, Genes, and Cells: Developmental Biology	132	02	7489	Fall 2025	
+Irons, Zoe (Primary)
+Monday,Wednesday,Friday
+S
+M
+T
+W
+T
+F
+S
+10:30 AM - 11:20 AM Type: Class Building: Tome Scientific Building Room: 115 Start Date: 09/01/2025 End Date: 12/20/2025
+Tuesday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 04:30 PM Type: Class Building: James Hall - Rector Complex Room: 2218 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Lab Sciences
+
+Appropriate for First-Year
+
+1	
+Biology	Introduction to Molecules, Genes, and Cells: Topics in the Molecular Basis of Disease	132	03	7492	Fall 2025	
+Frey, Tiffany (Primary)
+Felker, Jill
+Tuesday,Thursday
+S
+M
+T
+W
+T
+F
+S
+10:30 AM - 11:45 AM Type: Class Building: Althouse Hall Room: 106 Start Date: 09/01/2025 End Date: 12/20/2025
+Wednesday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 04:30 PM Type: Class Building: James Hall - Rector Complex Room: 2218 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Lab Sciences
+
+ENST Foundations (ESFN)
+
+Appropriate for First-Year
+
+Health Studies Elective
+
+1	
+Biology	Introduction to Molecules, Genes, and Cells Topics	132	04	7896	Fall 2025	
+Frey, Tiffany (Primary)
+Felker, Jill
+Tuesday,Thursday
+S
+M
+T
+W
+T
+F
+S
+10:30 AM - 11:45 AM Type: Class Building: Althouse Hall Room: 106 Start Date: 09/01/2025 End Date: 12/20/2025
+Friday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 04:30 PM Type: Class Building: James Hall - Rector Complex Room: 2218 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Lab Sciences
+
+Appropriate for First-Year
+
+1	
+Biology	Evolution w/Lab	215	01	7495	Fall 2025	
+Boback, Scott (Primary)
+Monday,Wednesday,Friday
+S
+M
+T
+W
+T
+F
+S
+10:30 AM - 11:20 AM Type: Class Building: Tome Scientific Building Room: 117 Start Date: 09/01/2025 End Date: 12/20/2025
+Tuesday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 04:30 PM Type: Class Building: Rector North Room: 1317 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	ENST Foundations (ESFN)
+
+1	
+Biology	Genetics w/Lab	216	01	7499	Fall 2025	
+Guss, Kirsten (Primary)
+Monday,Wednesday,Friday
+S
+M
+T
+W
+T
+F
+S
+09:30 AM - 10:20 AM Type: Class Building: Althouse Hall Room: 201 Start Date: 09/01/2025 End Date: 12/20/2025
+Monday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 04:30 PM Type: Class Building: James Hall - Rector Complex Room: 2206 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	ENST Foundations (ESFN)
+
+NRSC Course
+
+Quantitative Reasoning
+
+1	
+Biology	Genetics w/Lab	216	02	7501	Fall 2025	
+Somers, Dana (Primary)
+Tuesday,Thursday
+S
+M
+T
+W
+T
+F
+S
+10:30 AM - 11:45 AM Type: Class Building: James Hall - Rector Complex Room: 2206 Start Date: 09/01/2025 End Date: 12/20/2025
+Thursday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 04:30 PM Type: Class Building: James Hall - Rector Complex Room: 2206 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	ENST Foundations (ESFN)
+
+NRSC Course
+
+Quantitative Reasoning
+
+1	
+Biology	Paleontology	301	02	7744	Fall 2025	
+Key, Marcus (Primary)
+Monday,Wednesday,Friday
+S
+M
+T
+W
+T
+F
+S
+09:30 AM - 10:20 AM Type: Class Building: Kaufman Hall Room: 152 Start Date: 09/01/2025 End Date: 12/20/2025
+Friday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 04:30 PM Type: Class Building: Kaufman Hall Room: 152 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	ARCH-Arch, Anth & Environment
+
+ARCH Area B Elective
+
+Biology Elective
+
+ENST Foundations (ESFN)
+
+Sustainability Connections
+
+1	
+Biology	Algae, Fungi & Lichens W/Lab	323	01	7512	Fall 2025	
+Loeffler, Carol (Primary)
+Monday,Wednesday
+S
+M
+T
+W
+T
+F
+S
+08:30 AM - 09:20 AM Type: Class Building: Rector North Room: 2319 Start Date: 09/01/2025 End Date: 12/20/2025
+Monday
+S
+M
+T
+W
+T
+F
+S
+12:30 PM - 04:30 PM Type: Class Building: Rector North Room: 2319 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	ENST Foundations (ESFN)
+
+1	
+Biology	Algae, Fungi & Lichens W/Lab	323	02	7519	Fall 2025	
+Loeffler, Carol (Primary)
+Monday,Wednesday
+S
+M
+T
+W
+T
+F
+S
+08:30 AM - 09:20 AM Type: Class Building: Rector North Room: 2319 Start Date: 09/01/2025 End Date: 12/20/2025
+Wednesday
+S
+M
+T
+W
+T
+F
+S
+12:30 PM - 04:30 PM Type: Class Building: Rector North Room: 2319 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	ENST Foundations (ESFN)
+
+1	
+Biology	Microbiology w/Lab	326	01	7521	Fall 2025	
+Kushner, David (Primary)
+Monday,Wednesday,Friday
+S
+M
+T
+W
+T
+F
+S
+09:30 AM - 10:20 AM Type: Class Building: Stuart Hall - Rector Complex Room: 1113 Start Date: 09/01/2025 End Date: 12/20/2025
+Wednesday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 04:30 PM Type: Class Building: Rector North Room: 1316 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	ENST Foundations (ESFN)
+
+Health Studies Elective
+
+NRSC Course
+
+Writing in the Discipline
+
+1	
+Biology	Developmental Neurobiology w/Lab	327	01	7522	Fall 2025	
+Niblock, Missy (Primary)
+Tuesday,Thursday
+S
+M
+T
+W
+T
+F
+S
+10:30 AM - 11:45 AM Type: Class Building: James Hall - Rector Complex Room: 1228 Start Date: 09/01/2025 End Date: 12/20/2025
+Thursday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 04:30 PM Type: Class Building: James Hall - Rector Complex Room: 1228 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	NRSC Course
+
+1	
+Biology	Comparative Vertebrate Anatomy w/lab	334	01	7524	Fall 2025	
+Zwemer, Chuck (Primary)
+Tuesday,Thursday
+S
+M
+T
+W
+T
+F
+S
+09:00 AM - 10:15 AM Type: Class Building: Rector North Room: 1317 Start Date: 09/01/2025 End Date: 12/20/2025
+Tuesday,Thursday
+S
+M
+T
+W
+T
+F
+S
+10:30 AM - 11:45 AM Type: Class Building: Rector North Room: 1317 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	ENST Foundations (ESFN)
+
+NRSC Course
+
+1	
+Biology	Human Anatomy	336	01	7759	Fall 2025	
+Frey, Tiffany (Primary)
+Rahawi, Anthony
+Monday,Wednesday,Friday
+S
+M
+T
+W
+T
+F
+S
+10:30 AM - 11:20 AM Type: Class Building: James Hall - Rector Complex Room: 2206 Start Date: 09/01/2025 End Date: 12/20/2025
+Friday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 04:30 PM Type: Class Building: James Hall - Rector Complex Room: 2206 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Biology OPE elective
+
+1	
+Biology	Research in Animal-Plant Interactions	401	01	7528	Fall 2025	
+Loeffler, Carol (Primary)
+Tuesday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 04:30 PM Type: Class Building: Rector North Room: 2319 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Biology Research
+
+1	
+Biology	The Physiology of Prehospital Emergency Care	412	01	7532	Fall 2025	
+Zwemer, Chuck (Primary)
+Wednesday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 04:30 PM Type: Class Building: James Hall - Rector Complex Room: 1228 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Biology Research
+
+1	
+Biology	The Biology of Cancer w/lab	425	01	7535	Fall 2025	
+Roberts, Michael (Primary)
+Tuesday,Thursday
+S
+M
+T
+W
+T
+F
+S
+09:00 AM - 10:15 AM Type: Class Building: Tome Scientific Building Room: 213 Start Date: 09/01/2025 End Date: 12/20/2025
+Monday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 04:30 PM Type: Class Building: Rector North Room: 1316 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	ENST Foundations (ESFN)
+
+Health Studies Elective
+
+Writing in the Discipline
+
+1	
+Astronomy	Mysteries of the Solar System	109	01	7465	Fall 2025	
+Morgan, Windsor (Primary)
+Tuesday,Thursday
+S
+M
+T
+W
+T
+F
+S
+09:00 AM - 10:15 AM Type: Class Building: Tome Scientific Building Room: 115 Start Date: 09/01/2025 End Date: 12/20/2025
+Tuesday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 03:20 PM Type: Class Building: Tome Scientific Building Room: 105 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Quantitative Reasoning
+
+Lab Sciences
+
+Appropriate for First-Year
+
+1	
+Astronomy	Introductory Astrophysics	208	01	7470	Fall 2025	
+Morgan, Windsor (Primary)
+Tuesday,Thursday
+S
+M
+T
+W
+T
+F
+S
+10:30 AM - 11:45 AM Type: Class Building: Tome Scientific Building Room: 213 Start Date: 09/01/2025 End Date: 12/20/2025
+Class		1	
+Art & Art History	An Introduction to the History of Art	101	01	7424	Fall 2025	
+Schlitt, Melinda (Primary)
+Monday,Wednesday,Friday
+S
+M
+T
+W
+T
+F
+S
+09:30 AM - 10:20 AM Type: Class Building: Weiss Center for the Arts Room: 235 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	ARCH -Mediterranean Arch Elect
+
+Arts
+
+Appropriate for First-Year
+
+MEMS Elective
+
+1	
+Art & Art History	An Introduction to the History of Art	102	01	7427	Fall 2025	
+Vanover, Ty (Primary)
+Tuesday,Thursday
+S
+M
+T
+W
+T
+F
+S
+10:30 AM - 11:45 AM Type: Class Building: Weiss Center for the Arts Room: 235 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Arts
+
+Appropriate for First-Year
+
+MEMS Elective
+
+1	
+Art & Art History	Fundamentals of Composition and Drawing	122	01	7430	Fall 2025	
+Lehman, Emily (Primary)
+Monday,Wednesday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 03:29 PM Type: Class Building: Weiss Center for the Arts Room: 343 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Arts
+
+Appropriate for First-Year
+
+1	
+Art & Art History	Art and Sustainability	130	01	7434	Fall 2025	
+Shiles, Mitch (Primary)
+Monday,Wednesday
+S
+M
+T
+W
+T
+F
+S
+01:30 PM - 03:29 PM Type: Class Building: Goodyear - Art Studios Room: 3-D Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Arts
+
+ENST Humanities/Arts (ESHA)
+
+Sustainability Connections
+
+1	
+Art & Art History	Art and Sustainability	130	02	7857	Fall 2025	
+Shiles, Mitch (Primary)
+Monday,Wednesday
+S
+M
+T
+W
+T
+F
+S
+09:30 AM - 11:29 AM Type: Class Building: Goodyear - Art Studios Room: DOWN Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Arts
+
+ENST Humanities/Arts (ESHA)
+
+Sustainability Connections
+
+1	
+Art & Art History	Reality, Idealism, Beauty, and Power: Topics in the Art & Architecture of Ancient Greece and Rome	202	01	7436	Fall 2025	
+Schlitt, Melinda (Primary)
+Monday,Wednesday,Friday
+S
+M
+T
+W
+T
+F
+S
+11:30 AM - 12:20 PM Type: Class Building: Weiss Center for the Arts Room: 221 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	ARTH Ancient Art
+
+ARCH Area A Elective
+
+ARCH -Mediterranean Arch Elect
+
+Arts
+
+1	
+Art & Art History	Buddhist Art & Architecture: The Three Jewels	205	01	7798	Fall 2025	
+Lee, Elizabeth (Primary)
+Heatherly, Bryce
+Tuesday,Friday
+S
+M
+T
+W
+T
+F
+S
+03:00 PM - 04:15 PM Type: Class Building: Althouse Hall Room: 106 Start Date: 09/01/2025 End Date: 12/20/2025
+Class	Chinese Humanities Elective
+
+Humanities
+
+East Asian Humanities Elective
+
+Global Diversity
+
+INST Asia Course
+
+Japanese Humanities Elective
+
+Arts
+
+1
