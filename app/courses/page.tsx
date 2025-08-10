@@ -6,8 +6,18 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/com
 import { Button } from "@/components/ui/button"
 import { Badge } from "@/components/ui/badge"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
-import { BookOpen, Calendar, Trash2, Users } from "lucide-react"
-import { toast } from "sonner"
+// import { BookOpen, Calendar, Trash2, Users } from "lucide-react"
+// import { toast } from "sonner"
+
+// Temporary replacements
+const BookOpen = () => <span>📚</span>
+const Calendar = () => <span>📅</span>
+const Trash2 = () => <span>🗑️</span>
+const Users = () => <span>👥</span>
+const toast = {
+  success: (message: string) => console.log('Success:', message),
+  error: (message: string) => console.log('Error:', message)
+}
 
 interface UserCourse {
   id: string
